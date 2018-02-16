@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Obóz zerowy Soli Deo"
+---
+
+# Obóz zerowy Soli Deo
+
+<time>2017-07-08 19:02:20</time>
+
+
+
+![19244108_1565006633532617_87225253_n.jpg](19244108_1565006633532617_87225253_n.jpg)
+
+
+Akademickie Stowarzyszenie Katolickie Soli Deo ma zaszczyt zaprosić na jedyny i niepowtarzalny Obóz Zerowy!
+
+
+Zaczynasz studia? Chciałbyś poznać ludzi o podobnych wartościach? A może już studiujesz i chciałbyś dowiedzieć się więcej o ASK Soli Deo? Jeśli tak, to ten obóz jest właśnie dla Ciebie!
+
+Obóz odbędzie się w Szklarskiej Porębie w terminie **5.09-11.09.2017**. Koszt: 550 zł. Cena zawiera zakwaterowanie, wyżywienie, transport na miejscu, bilety wstępu do parku, pamiątkową koszulkę (cena nie zawiera transportu do Szklarskiej Poręby).
+
+Nocować będziemy w **[Ośrodku Siła ](http://www.sila.wszklarskiej.pl/%20)**w Szklarskiej Porębie,
+[](http://www.sila.wszklarskiej.pl/)
+
+W planie obozu przewidziane m.in. zdobycie Szrenicy, Śnieżki, Łabskiego Szczytu, Wielkiego Szyszaka, zwiedzanie Szklarskiej Poręby, Karpacza, Jeleniej Góry oraz oczywiście codzienna integracja! 
+
+Zapisy przez[** Formularz**](%20https:/docs.google.com/forms/d/1Nn10phiKnyLkPJishbp5mDeUnYlTWyHGTNQueGlcHGA/).
+
+Możliwość zapisu a także wpłata zaliczki (250zł) do 11.08.2017, reszta kwoty do 24.08.2017. 
+
+Dane do przelewu zostaną wysłane w wiadomości z potwierdzeniem zapisu.
+
+W razie jakichkolwiek pytań albo braku potwierdzenia zapisu w ciągu dwóch dni napisz do nas na **integracja.solideo@gmail.c****om.**
+
+
+ Link do wydarzenia na**[ Facebooku](https://web.facebook.com/events/319868835119126/?fref=ts).**
+
+Do zobaczenia! :D
