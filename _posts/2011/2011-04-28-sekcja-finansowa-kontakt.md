@@ -1,0 +1,36 @@
+---
+title: Sekcja Finansowa - kontakt
+date: 2011-04-28
+redirect_from: 
+  - 2011/2011.04.28-sekcja-finansowa-kontakt
+
+published: true
+---
+
+
+
+# Sekcja Finansowa - kontakt
+
+<time>2011-04-28 10:37:58</time>
+
+
+**ksiegowosc.solideo@gmail.com**
+
+
+**
+**
+
+
+**SZEF**: Monika Pietrzak
+
+
+**Członkowie****:**
+
+<ul>
+<li>Małgorzata Palonek</li>
+<li>Agnieszka Kowalczyk</li>
+<li>Agnieszka Jasińska</li>
+<li>Gabrysia Czubacka </li>
+</ul>
+
+<!--{{json:{"created_date":"2011-04-28 10:37:58","publish_down":"0000-00-00 00:00:00","id":"153"}}}-->

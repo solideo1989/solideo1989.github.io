@@ -1,0 +1,24 @@
+---
+title: [SGGW] Uniwersytet-Kościół-Przyroda
+date: 2004-11-27
+redirect_from: 
+  - sggw-uniwersytet-kosciol-przyroda
+  - 2004/2004.11.27-(sggw)-uniwersytet-kosciol-przyroda
+
+published: true
+---
+
+
+
+# [SGGW] Uniwersytet-Kościół-Przyroda
+
+<time>2 grudnia 2004, godz. 17:00</time>
+
+2 grudnia 2004, godz. 17:00 | *SGGW, budynek "zielony" WTŻ (wydz.Technologii Żywności), Aula IV*
+Zapraszamy zainteresowane osoby na pokaz slajdów z Vancouver o tematyce: "Uniwersytet-Kościół-Przyroda". W czasie pokazu swe przygody z pobytu na University of British Columbia kwieciscie opisze dr Dariusz Piotrowski-jeden z wykładowców naszej Alma Mater, jednocześnie były członek Soli Deo przy SGGW.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 2 grudnia 2004, godz. 17:00 | *SGGW, budynek "zielony" WTŻ (wydz.Technologii Żywności), Aula IV*
+Zapraszamy zainteresowane osoby na pokaz slajdów z Vancouver o tematyce: "Uniwersytet-Kościół-Przyroda". W czasie pokazu swe przygody z pobytu na University of British Columbia kwieciscie opisze dr Dariusz Piotrowski-jeden z wykładowców naszej Alma Mater, jednocześnie były członek Soli Deo przy SGGW. 
+-->
+
+<!--{{json:{"created_date":"2004-11-27 17:18:04","publish_down":"0000-00-00 00:00:00","id":"187"}}}-->

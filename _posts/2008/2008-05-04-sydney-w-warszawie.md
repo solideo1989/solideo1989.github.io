@@ -1,0 +1,30 @@
+---
+title: Sydney w Warszawie
+date: 2008-05-04
+redirect_from: 
+  - 2008/2008.05.04-sydney-w-warszawie
+  - sydney-w-warszawie
+
+published: true
+---
+
+
+
+# Sydney w Warszawie
+
+<time>19-20 lipca 2008</time>
+
+19-20 lipca 2008 | 
+Daj się porwać! 
+Spotkanie w duchu Światowych Dni Młodzieży w łączności satelitarnej z Sydney.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 19-20 lipca 2008 | 
+Daj się porwać! 
+
+
+Spotkanie w duchu Światowych Dni Młodzieży w łączności satelitarnej z Sydney.
+
+-->
+
+<!--{{json:{"created_date":"2008-05-04 14:31:02","publish_down":"0000-00-00 00:00:00","id":"621"}}}-->

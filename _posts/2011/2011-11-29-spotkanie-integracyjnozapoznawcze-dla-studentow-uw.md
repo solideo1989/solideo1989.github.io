@@ -1,0 +1,36 @@
+---
+title: Spotkanie integracyjno-zapoznawcze dla studentów UW
+date: 2011-11-29
+redirect_from: 
+  - spotkanie-integracyjno-zapoznawcze-dla-studentow-uw
+  - 2011/2011.11.29-spotkanie-integracyjno-zapoznawcze-dla-studentow-uw
+
+published: true
+---
+
+
+![clover](images/stories/grafiki/clover.jpg)
+
+# Spotkanie integracyjno-zapoznawcze dla studentów UW
+
+<time>2011-11-29 20:36:41</time>
+
+
+**
+**Wszystkich         studentów         Uniwersytetu Warszawskiego zainteresowanych działalnością Soli         Deo zapraszamy         na spotkanie integracyjno-zapoznawcze. Chętnie         odpowiemy na wszystkie pytania dotyczące działalności naszego         stowarzyszenia,         opowiemy o naszych obecnych projektach i przedstawimy         możliwości         współpracy. Spotkanie odbędzie się 4 grudnia o godzinie 18:00, w akademiku         przy ul.         Skaryszewskiej 12,   na 3         piętrze. 
+ 
+ Serdecznie zapraszam,
+ Aleksandra Kołakowska Prezes Zarządu Koła Terenowego Akademickiego Stowarzyszenia         Katolickiego „Soli Deo” przy 
+Uniwersytecie Warszawskim
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+**
+**Wszystkich         studentów         Uniwersytetu Warszawskiego zainteresowanych działalnością Soli         Deo zapraszamy         na spotkanie integracyjno-zapoznawcze. Chętnie         odpowiemy na wszystkie pytania dotyczące działalności naszego         stowarzyszenia,         opowiemy o naszych obecnych projektach i przedstawimy         możliwości         współpracy. Spotkanie odbędzie się 4 grudnia o godzinie 18:00, w akademiku         przy ul.         Skaryszewskiej 12,   na 3         piętrze. 
+ 
+ Serdecznie zapraszam,
+ Aleksandra Kołakowska Prezes Zarządu Koła Terenowego Akademickiego Stowarzyszenia         Katolickiego „Soli Deo” przy Uniwersytecie Warszawskim
+
+-->
+
+<!--{{json:{"created_date":"2011-11-29 20:36:41","publish_down":"0000-00-00 00:00:00","id":"1051"}}}-->

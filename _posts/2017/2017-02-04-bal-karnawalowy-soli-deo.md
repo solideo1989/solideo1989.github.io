@@ -1,0 +1,55 @@
+---
+title: Bal karnawałowy Soli Deo
+date: 2017-02-04
+redirect_from: 
+  - 2-uncategorised/5478-bal-karnawalowy-soli-deo
+  - 2017/2017.02.04-bal-karnawalowy-soli-deo
+  - bal-karnawalowy-soli-deo
+
+published: true
+---
+
+
+![/assets/posts/2017/2017-02-04-bal-karnawalowy-soli-deo/Bal25luty.jpg](/assets/posts/2017/2017-02-04-bal-karnawalowy-soli-deo/Bal25luty.jpg)
+
+
+
+# Bal karnawałowy Soli Deo
+
+<time>2017-02-04 11:13:13</time>
+
+
+
+
+
+Akademickie Stowarzyszenie Katolickie Soli Deo zaprasza na Imprezę Karnawałową!
+Niesamowita muzyka, moc pozytywnych emocji i oczywiście doborowe towarzystwo pozwolą nam na odetchnięcie po trudach sesji i dobre rozpoczęcie nowego semestru :)
+
+Imprezę zaczniemy od Mszy Świętej w Parafii Katedralnej św. Michała Archanioła i św. Floriana Męczennika (ul. Floriańska 3, Warszawa) o godzinie 18.00, następnie zabawa odbędzie się w podziemiach Katedry.
+
+Zapisy na zabawę poprzez **[FORMULARZ](https://docs.google.com/forms/d/1Ip_zqQGeR41ZOcK7SbyuVOdG-lWzqAHjhWVeo96pRo8/edit)**
+
+Zapisy i wpłaty przyjmujemy do 21.02.2017!
+
+**Ceny biletów:**
+Członkowie Soli Deo (podpisana deklaracja): 20 zł
+Sympatycy Soli Deo: 25 zł
+W cenę biletu wliczone są jedzenie i napoje przez całą noc, DJ.
+
+Impreza jest bezalkoholowa. Obowiązują stroje wieczorowe.
+
+W zabawie mogą wziąć udział osoby w wieku 18-30 lat.
+
+Nie musisz mieć pary, może właśnie na tej imprezie poznasz kogoś nowego? ;) 
+
+Dane do przelewu zostaną wysłane w wiadomości z potwierdzeniem zapisu.
+
+W razie jakichkolwiek pytań albo braku potwierdzenia zapisu w ciągu dwóch dni napisz do nas na **integracja.solideo@gmail.c****om**
+
+
+Link do wydarzenia na** [Facebooku](https://www.facebook.com/events/584250818451238/)**
+
+Do zobaczenia! :)
+
+
+<!--{{json:{"created_date":"2017-02-04 11:13:13","publish_down":"0000-00-00 00:00:00","id":"5478"}}}-->

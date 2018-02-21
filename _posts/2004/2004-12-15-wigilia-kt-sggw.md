@@ -1,0 +1,22 @@
+---
+title: Wigilia KT SGGW
+date: 2004-12-15
+redirect_from: 
+  - 2004/2004.12.15-wigilia-kt-sggw
+  - wigilia-kt-sggw
+
+published: true
+---
+
+
+
+# Wigilia KT SGGW
+
+<time>17 grudnia 2004, 19:00</time>
+
+17 grudnia 2004, 19:00 | Zapraszamy na Wigilię KT SGGW, która odbędzie się w ten piątek (17 grudnia)  o godzinie 19 w akademiku przy Kazimierzowskiej. Dokładne informacje jak  dotrzeć u Pauliny 609 999 427
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 17 grudnia 2004, 19:00 | Zapraszamy na Wigilię KT SGGW, która odbędzie się w ten piątek (17 grudnia)  o godzinie 19 w akademiku przy Kazimierzowskiej. Dokładne informacje jak  dotrzeć u Pauliny 609 999 427
+-->
+
+<!--{{json:{"created_date":"2004-12-15 12:49:38","publish_down":"0000-00-00 00:00:00","id":"189"}}}-->

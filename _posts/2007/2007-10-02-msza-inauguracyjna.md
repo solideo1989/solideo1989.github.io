@@ -1,0 +1,28 @@
+---
+title: Msza Inauguracyjna
+date: 2007-10-02
+redirect_from: 
+  - msza-inauguracyjna
+  - 2007/2007.10.02-msza-inauguracyjna
+
+published: true
+---
+
+
+
+# Msza Inauguracyjna
+
+<time>7 października</time>
+
+7 października | Duszpasterstwo Akademickie DĄB zaprasza serdecznie na Mszę Inaguracyjną z
+błogosławieństwem indeksów. Zapraszamy w niedzielę, 7 października na 19:30 do
+Sanktuarium św.Andrzeja Boboli. 
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 7 października | Duszpasterstwo Akademickie DĄB zaprasza serdecznie na Mszę Inaguracyjną z
+błogosławieństwem indeksów. Zapraszamy w niedzielę, 7 października na 19:30 do
+Sanktuarium św.Andrzeja Boboli. 
+
+-->
+
+<!--{{json:{"created_date":"2007-10-02 17:01:13","publish_down":"0000-00-00 00:00:00","id":"515"}}}-->

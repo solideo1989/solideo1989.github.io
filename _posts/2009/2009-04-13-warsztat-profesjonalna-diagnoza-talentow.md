@@ -1,0 +1,36 @@
+---
+title: Warsztat - profesjonalna diagnoza talentów
+date: 2009-04-13
+redirect_from: 
+  - 2009/2009.04.13-warsztat-profesjonalna-diagnoza-talentow
+  - warsztat-profesjonalna-diagnoza-talentow
+
+published: true
+---
+
+
+
+# Warsztat - profesjonalna diagnoza talentów
+
+<time>Sobota, 18 kwietnia, godz 11-15.45</time>
+
+Sobota, 18 kwietnia, godz 11-15.45 | 
+Czy wiesz, że posiadasz zdolności i predyspozycje, z których nawet nie zdajesz sobie sprawy? Warsztaty poświęcone poznawaniu siebie, swoich kompetencji, &nbsp;umiejętności, pomogą Ci je odkryć i rozwinąć.
+**Warsztat poprowadzi pani Joanna Sałajczyk**, konsultant ds. rozwoju talentów i osobowości z dużym doświadczeniem.
+**Sobota, 18 kwietnia, godz 11-15.45**
+**Szkoła Główna Handlowa**
+**Na warsztat obowiązują zapisy. Liczba miejsc ograniczona.**
+Więcej informacji =&gt; klik więcej
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): Sobota, 18 kwietnia, godz 11-15.45 | 
+Czy wiesz, że posiadasz zdolności i predyspozycje, z których nawet nie zdajesz sobie sprawy? Warsztaty poświęcone poznawaniu siebie, swoich kompetencji, &nbsp;umiejętności, pomogą Ci je odkryć i rozwinąć.
+**Warsztat poprowadzi pani Joanna Sałajczyk**, konsultant ds. rozwoju talentów i osobowości z dużym doświadczeniem.
+**Sobota, 18 kwietnia, godz 11-15.45**
+**Szkoła Główna Handlowa**
+**Na warsztat obowiązują zapisy. Liczba miejsc ograniczona.**
+Więcej informacji =&gt; klik więcej
+
+-->
+
+<!--{{json:{"created_date":"2009-04-13 23:30:01","publish_down":"0000-00-00 00:00:00","id":"741"}}}-->

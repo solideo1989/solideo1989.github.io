@@ -1,0 +1,26 @@
+---
+title: A Majówkę spędziliśmy tak...
+date: 2013-09-29
+redirect_from: 
+  - a-majowke-spedzilismy-tak
+  - 2013/2013.09.29-a-majowke-spedzilismy-tak
+
+published: true
+---
+
+
+![images/stories/majowka2013.jpg](images/stories/majowka2013.jpg)
+
+# A Majówkę spędziliśmy tak...
+
+<time>2013-09-29 17:43:43</time>
+
+
+
+
+Mamy nadzieję, że Wy również świetnie się bawiliście i trochę odpoczęliście:-)
+ My byliśmy na Mazurach – wiele ciekawych rzeczy się działo, ale najważniejszy był spływ kajakowy. 
+ Mamy co wspominać włącznie z integracją, rozmowami i dyskusjami do 7 nad ranem:-)
+
+
+<!--{{json:{"created_date":"2013-09-29 17:43:43","publish_down":"0000-00-00 00:00:00","id":"5302"}}}-->

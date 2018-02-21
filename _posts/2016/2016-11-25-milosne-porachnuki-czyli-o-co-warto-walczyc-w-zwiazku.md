@@ -1,0 +1,32 @@
+---
+title: Miłosne porachnuki, czyli o co warto walczyć w związku
+date: 2016-11-25
+redirect_from: 
+  - dk
+  - 2016/2016.11.25-milosne-porachnuki-czyli-o-co-warto-walczyc-w-zwiazku
+
+published: true
+---
+
+
+![/assets/posts/2016/2016-11-25-milosne-porachnuki-czyli-o-co-warto-walczyc-w-zwiazku/JT.jpg](/assets/posts/2016/2016-11-25-milosne-porachnuki-czyli-o-co-warto-walczyc-w-zwiazku/JT.jpg)
+
+# Miłosne porachnuki, czyli o co warto walczyć w związku
+
+<time>2016-11-25 13:44:13</time>
+
+
+
+
+
+
+O tym o co warto walczyć w związku, na jakich fundamentach opierać swoją relację z drugim człowiekiem, o uczeniu się jak wspólnie stawiać czoła przeciwieństwom losu, o tym, jak łączyć karierę zawodową z życiem rodzinnym oraz jak być mężczyzną we współczesnym świecie opowie nasz gość, **Dariusz Kowalsk**i, znany m.in. z serialu „Plebania”.
+
+
+Spotkanie odbędzie się w środę, **30 listopada**, o godzinie **20:10** w **Auditorium Maximum** (Kampus Główny Uniwersytetu Warszawskiego).
+
+
+Zobacz na **[mapce](/assets/posts/2016/2016-11-25-milosne-porachnuki-czyli-o-co-warto-walczyc-w-zwiazku/mapka_UW.jpg)**, jak dotrzeć na miejsce
+
+
+<!--{{json:{"created_date":"2016-11-25 13:44:13","publish_down":"0000-00-00 00:00:00","id":"5470"}}}-->

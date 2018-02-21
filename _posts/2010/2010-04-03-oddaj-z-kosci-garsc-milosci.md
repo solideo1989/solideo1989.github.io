@@ -1,0 +1,23 @@
+---
+title: Oddaj z kości garść miłości
+date: 2010-04-03
+redirect_from: 
+  - 2010/2010.04.03-oddaj-z-kosci-garsc-milosci
+  - oddaj-z-kosci-garsc-milosci-1
+
+published: true
+---
+
+
+
+# Oddaj z kości garść miłości
+
+<time>14 i 22 kwietnia</time>
+
+14 i 22 kwietnia | Już po raz drugi rusza akcja **"Oddaj z kości garść miłości"** mająca na celu rejestrację osób do banku dawców szpiku kostnego oraz poszerzenie wiedzy wśród studentów nt. białaczki oraz samego przebiegu oddawania szpiku.
+W tym semestrze akcja odbędzie się na dwóch uczelniach - 14 kwietnia w Audytorium Maximum na Kampusie UKSW na Wójcickiego i 22 kwietnia w budynku 32 na SGGW
+
+Zachęcamy do obejrzenia [filmu na You Tube](http://www.youtube.com/watch?v=Zowqe1CTeeo) 
+                  
+
+<!--{{json:{"created_date":"2010-04-03 13:56:29","publish_down":"0000-00-00 00:00:00","id":"921"}}}-->

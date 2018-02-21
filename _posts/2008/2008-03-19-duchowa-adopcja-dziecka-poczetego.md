@@ -1,0 +1,46 @@
+---
+title: Duchowa Adopcja dziecka poczętego
+date: 2008-03-19
+redirect_from: 
+  - 2008/2008.03.19-duchowa-adopcja-dziecka-poczetego
+  - duchowa-adopcja-dziecka-poczetego
+
+published: true
+---
+
+
+
+# Duchowa Adopcja dziecka poczętego
+
+<time>marzec - grudzień 2008</time>
+
+marzec - grudzień 2008 | 
+*"Naród, który zabija własne dzieci,
+
+jest narodem bez przyszłości"
+
+Jan Paweł II do Polaków*
+
+Duchowa Adopcja jest spełnianiem Jasnogórskich Ślubów Narodu, zalecaną przez Ojca Świętego Jana Pawła II i naszego Patrona, Prymasa Wyszyńskiego, modlitwą w intencji dziecka za­grożonego zabiciem w łonie matki. Trwa **9 mie­sięcy** i polega na **codziennym odmawianiu jednej tajemnicy różańca** - radosnej, bolesnej lub chwaleb­nej (Ojcze nasz i 10 Zdrowaś Maryjo) oraz specjalnej modlitwy w intencji dziecka i jego rodziców. Do mo­dlitw można dołączyć dowolnie wybrane dobre posta­nowienia.
+
+Zachęć innych do włączenia się w dzieło Duchowej Adopcji!
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): marzec - grudzień 2008 | 
+*"Naród, który zabija własne dzieci,
+
+jest narodem bez przyszłości"
+
+Jan Paweł II do Polaków*
+
+
+
+Duchowa Adopcja jest spełnianiem Jasnogórskich Ślubów Narodu, zalecaną przez Ojca Świętego Jana Pawła II i naszego Patrona, Prymasa Wyszyńskiego, modlitwą w intencji dziecka za­grożonego zabiciem w łonie matki. Trwa **9 mie­sięcy** i polega na **codziennym odmawianiu jednej tajemnicy różańca** - radosnej, bolesnej lub chwaleb­nej (Ojcze nasz i 10 Zdrowaś Maryjo) oraz specjalnej modlitwy w intencji dziecka i jego rodziców. Do mo­dlitw można dołączyć dowolnie wybrane dobre posta­nowienia.
+
+
+
+Zachęć innych do włączenia się w dzieło Duchowej Adopcji!
+
+-->
+
+<!--{{json:{"created_date":"2008-03-19 23:01:39","publish_down":"0000-00-00 00:00:00","id":"598"}}}-->

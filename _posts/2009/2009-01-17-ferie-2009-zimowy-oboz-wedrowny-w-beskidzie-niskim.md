@@ -1,0 +1,43 @@
+---
+title: Ferie 2009 - Zimowy obóz wędrowny w Beskidzie Niskim
+date: 2009-01-17
+redirect_from: 
+  - 2009/2009.01.17-ferie-2009-zimowy-oboz-wedrowny-w-beskidzie-niskim
+  - ferie-2009-zimowy-oboz-wedrowny-w-beskidzie-niskim
+
+published: true
+---
+
+
+
+# Ferie 2009 - Zimowy obóz wędrowny w Beskidzie Niskim
+
+<time>5 lutego 2009</time>
+
+5 lutego 2009 | 
+Zapraszamy na zimowy obóz wędrowny w Beskidzie Niskim!
+
+Wyjazd odbywa się w dniach 05.02 do 15.02.
+
+*Zapisy prosimy kierować na adres: sf.solideo@gmail.com*
+
+Zapraszamy członków i sympatyków Soli Deo! Zapewniamy wypoczynek w 100%, bardzo dobrze spędzony czas w świetnym towarzystwie :)
+
+Przeczytajcie szczegóły wyjazdu!
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 5 lutego 2009 | 
+Zapraszamy na zimowy obóz wędrowny w Beskidzie Niskim!
+
+Wyjazd odbywa się w dniach 05.02 do 15.02.
+
+*Zapisy prosimy kierować na adres: sf.solideo@gmail.com*
+
+Zapraszamy członków i sympatyków Soli Deo! Zapewniamy wypoczynek w 100%, bardzo dobrze spędzony czas w świetnym towarzystwie :)
+
+Przeczytajcie szczegóły wyjazdu!
+
+                  
+-->
+
+<!--{{json:{"created_date":"2009-01-17 10:25:48","publish_down":"0000-00-00 00:00:00","id":"699"}}}-->

@@ -1,0 +1,34 @@
+---
+title: Slajdy i opowieści z wyprawy do Etiopii
+date: 2009-03-26
+redirect_from: 
+  - 2009/2009.03.26-slajdy-i-opowiesci-z-wyprawy-do-etiopii
+  - slajdy-i-opowiesci-z-wyprawy-do-etiopii
+
+published: true
+---
+
+
+
+# Slajdy i opowieści z wyprawy do Etiopii
+
+<time>31 marca 2009</time>
+
+31 marca 2009 | 
+Zdjęcia i opowieści z wyprawy Do Etiopii. Nasza koleżanka Edyta Forys, jeżdżąc stopem (i nie tylko) zwiedziła cały ten piękny i tajemniczy kraj. Z radością zgodziła się nam opowiedzieć o przygodach, które tam przeżyła.
+31.03.2009, godz. 20, aula Starego BUW, 
+Krakowskie Przedmieście
+Wstęp wolny. 
+Zapraszamy serdecznie!
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 31 marca 2009 | 
+Zdjęcia i opowieści z wyprawy Do Etiopii. Nasza koleżanka Edyta Forys, jeżdżąc stopem (i nie tylko) zwiedziła cały ten piękny i tajemniczy kraj. Z radością zgodziła się nam opowiedzieć o przygodach, które tam przeżyła.
+31.03.2009, godz. 20, aula Starego BUW, 
+Krakowskie Przedmieście
+Wstęp wolny. 
+Zapraszamy serdecznie!
+
+-->
+
+<!--{{json:{"created_date":"2009-03-26 19:28:25","publish_down":"0000-00-00 00:00:00","id":"735"}}}-->

@@ -1,0 +1,28 @@
+---
+title: Rekolekcje weekendowe UW - relacja i zdjęcia
+date: 2010-02-12
+redirect_from: 
+  - 2010/2010.02.12-rekolekcje-weekendowe-uw-relacja-i-zdjecia
+  - rekolekcje-weekendowe-uw-relacja-i-zdjecia
+
+published: true
+---
+
+
+
+# Rekolekcje weekendowe UW - relacja i zdjęcia
+
+<time>Relacja</time>
+
+Relacja | 
+W dniach 26-28 marca , grupa 50 studentów UW wybrała się na rekolekcje wyjazdowe do Popowa. Zachęcamy do przeczytania relacji z wydarzenia i obejrzenia zdjęć.
+                                                                                          
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): Relacja | 
+W dniach 26-28 marca , grupa 50 studentów UW wybrała się na rekolekcje wyjazdowe do Popowa. Zachęcamy do przeczytania relacji z wydarzenia i obejrzenia zdjęć.
+                                                                                          
+         
+-->
+
+<!--{{json:{"created_date":"2010-02-12 22:43:14","publish_down":"0000-00-00 00:00:00","id":"856"}}}-->

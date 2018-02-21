@@ -1,0 +1,34 @@
+---
+title: Międzynarodowe Spotkanie Młodych w Paray-le-Monial
+date: 2009-06-22
+redirect_from: 
+  - miedzynarodowe-spotkanie-mlodych-w-paray-le-monial
+  - 2009/2009.06.22-miedzynarodowe-spotkanie-mlodych-w-paray-le-monial
+
+published: true
+---
+
+
+
+# Międzynarodowe Spotkanie Młodych w Paray-le-Monial
+
+<time>7-14 sierpnia 2009</time>
+
+7-14 sierpnia 2009 | W środku wakacji odbywa się spotkanie, którego nie można przegapić! Dlaczego?&nbsp;
+&nbsp;&nbsp;
+- ponieważ, tak jak uczestnicy, nasze spotkanie ma około dwudziestu lat&nbsp;
+&nbsp;- ponieważ w tym roku przyjedzie 4000 młodych
+&nbsp;- ponieważ to największe letnie międzynarodowe spotkanie młodych we Francji
+&nbsp;- ponieważ przyjeżdżają ludzie z całego świata&nbsp;&nbsp;
+&nbsp;- ponieważ Jezus na Ciebie czeka!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 7-14 sierpnia 2009 | W środku wakacji odbywa się spotkanie, którego nie można przegapić! Dlaczego?&nbsp;
+&nbsp;&nbsp;
+- ponieważ, tak jak uczestnicy, nasze spotkanie ma około dwudziestu lat&nbsp;
+&nbsp;- ponieważ w tym roku przyjedzie 4000 młodych
+&nbsp;- ponieważ to największe letnie międzynarodowe spotkanie młodych we Francji
+&nbsp;- ponieważ przyjeżdżają ludzie z całego świata&nbsp;&nbsp;
+&nbsp;- ponieważ Jezus na Ciebie czeka! 
+-->
+
+<!--{{json:{"created_date":"2009-06-22 08:04:30","publish_down":"0000-00-00 00:00:00","id":"769"}}}-->

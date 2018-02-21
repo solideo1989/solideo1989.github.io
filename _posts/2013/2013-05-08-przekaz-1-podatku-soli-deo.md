@@ -1,0 +1,24 @@
+---
+title: Przekaż 1% podatku Soli Deo!
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-przekaz-1-podatku-soli-deo
+
+published: true
+---
+
+
+
+# Przekaż 1% podatku Soli Deo!
+
+<time>Dziś! (data umieszczenia na nowej stronie: 2013-05-08 20:59:32)</time>
+
+Dziś! | 
+**Soli Deo** to organizacja, dzięki której studenci mogą rozwijać się nie tylko intelektualnie, ale także odpowiedzialnie kształtować swoje człowieczeńtwo w oparciu o wartości płynące z Ewangelii.
+
+**Soli Deo** to ludzie z pasją zaangażowani w budowę Cywilizacji Miłości.
+
+Dowiedz się co robimy i dlaczego warto nas wspierać przekazując 1% podatku (Soli Deo należy do OPP)! 
+
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"1018"}}}-->

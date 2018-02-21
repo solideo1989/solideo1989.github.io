@@ -1,0 +1,29 @@
+---
+title: Akcja krwiodawstwa na UW
+date: 2007-02-05
+redirect_from: 
+  - 2007/2007.02.05-akcja-krwiodawstwa-na-uw
+  - akcja-krwiodawstwa-na-uw
+
+published: true
+---
+
+
+
+# Akcja krwiodawstwa na UW
+
+<time>29 maja 2007 godz.9.00-14.00</time>
+
+29 maja 2007 godz.9.00-14.00 | Zbiórka odbędzie się w Auditorium Maximum, w Kampusie Głównym UW.
+
+Zachęcamy do oddawania krwi, każda kropla się liczy! 
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 29 maja 2007 godz.9.00-14.00 | Zbiórka odbędzie się w Auditorium Maximum, w Kampusie Głównym UW.
+
+Zachęcamy do oddawania krwi, każda kropla się liczy! 
+
+         
+-->
+
+<!--{{json:{"created_date":"2007-02-05 18:22:40","publish_down":"0000-00-00 00:00:00","id":"449"}}}-->

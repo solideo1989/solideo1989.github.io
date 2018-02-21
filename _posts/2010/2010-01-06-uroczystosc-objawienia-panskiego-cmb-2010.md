@@ -1,0 +1,26 @@
+---
+title: Uroczystosć Objawienia Pańskiego C+M+B 2010
+date: 2010-01-06
+redirect_from: 
+  - 2010/2010.01.06-uroczystosc-objawienia-panskiego-c-m-b-2010
+  - uroczystosc-objawienia-panskiego-c-m-b-2010
+
+published: true
+---
+
+
+
+# Uroczystosć Objawienia Pańskiego C+M+B 2010
+
+<time>6 stycznia 2010r.</time>
+
+6 stycznia 2010r. | Pamiętajmy, by w tę uroczystość oznaczyć nasze domy święconą kredą , tak by z jednej strony dać świadectwo światu, że mieszkają w nim wyznawcy Chrystusa, a z drugiej, by Chrystus błogosławił nasz dom i jego domowników w Nowym, 2010 roku.
+
+Pamiętajmy, by oznaczać nasze domy K+M+B lub C+M+B, które nie są (sic!) imionami trzech Mędrców: Kacpera, Melchiora i Baltazara, a pochodzą z inskrypcji łacińskiej "*Christus Mansionem Benedicat*", czyli "Niech Chrystus pobłogosławi ten dom" lub "*Christus Multorum Benefactor*" (Chrystus dobroczyńcą wielu)
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 6 stycznia 2010r. | Pamiętajmy, by w tę uroczystość oznaczyć nasze domy święconą kredą , tak by z jednej strony dać świadectwo światu, że mieszkają w nim wyznawcy Chrystusa, a z drugiej, by Chrystus błogosławił nasz dom i jego domowników w Nowym, 2010 roku.
+
+Pamiętajmy, by oznaczać nasze domy K+M+B lub C+M+B, które nie są (sic!) imionami trzech Mędrców: Kacpera, Melchiora i Baltazara, a pochodzą z inskrypcji łacińskiej "*Christus Mansionem Benedicat*", czyli "Niech Chrystus pobłogosławi ten dom" lub "*Christus Multorum Benefactor*" (Chrystus dobroczyńcą wielu)
+-->
+
+<!--{{json:{"created_date":"2010-01-06 21:14:38","publish_down":"0000-00-00 00:00:00","id":"837"}}}-->

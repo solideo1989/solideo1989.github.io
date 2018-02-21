@@ -1,0 +1,47 @@
+---
+title: Awangarda Życia - Jak żyć? Salomon
+date: 2012-03-19
+redirect_from: 
+  - 2012/2012.03.19-awangarda-zycia-jak-zyc-salomon
+  - awangarda-zycia-jak-zyc-salomon
+
+published: true
+---
+
+
+![images/stories/grafiki/Morze_Czerwone.jpg](images/stories/grafiki/Morze_Czerwone.jpg)
+
+# Awangarda Życia - Jak żyć? Salomon
+
+<time>2012-03-19 19:22:25</time>
+
+**
+22.03** zapraszamy na **spotkania dyskusyjne **z cyklu Awangarda Życia.
+W tym tygodniu skupimy się na temacie:
+** **
+**Jak żyć? Salomon**
+Na każdym spotkaniu odkrywamy Stary Testament i jego bohaterów jako  przesłanie aktualne dla dzisiejszego człowieka, żyjącego w świecie  polityki, seksu, etyki.
+
+
+Spotkania dyskusyjne Awangarda Życia odbywają się na UW (kampus główny), w Instytucie Archeologii, w sali 110, godz. 18.30-20.00
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): **
+22.03** zapraszamy na **spotkania dyskusyjne **z cyklu Awangarda Życia.
+
+
+W tym tygodniu skupimy się na temacie:
+** **
+**Jak żyć? Salomon**
+
+
+Na każdym spotkaniu odkrywamy Stary Testament i jego bohaterów jako  przesłanie aktualne dla dzisiejszego człowieka, żyjącego w świecie  polityki, seksu, etyki.
+
+
+
+
+Spotkania dyskusyjne Awangarda Życia odbywają się na UW (kampus główny), w Instytucie Archeologii, w sali 110, godz. 18.30-20.00
+
+-->
+
+<!--{{json:{"created_date":"2012-03-19 19:22:25","publish_down":"0000-00-00 00:00:00","id":"1081"}}}-->

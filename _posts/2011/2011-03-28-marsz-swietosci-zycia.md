@@ -1,0 +1,40 @@
+---
+title: Marsz Świętości Życia
+date: 2011-03-28
+redirect_from: 
+  - marsz-swietosci-zycia-2
+  - 2011/2011.03.28-marsz-swietosci-zycia
+
+published: true
+---
+
+
+![soli deo na marszu dla ycia](images/stories/soli deo na marszu dla ycia.jpg)
+
+# Marsz Świętości Życia
+
+<time>2011-03-28 15:30:12</time>
+
+
+# 
+"Zadaniem Kościoła jest nie tylko teoretyczne głoszenie świętości życia, prawa do życia nienarodzonych, lecz także praktyczna obrona tego prawa." bł. J. Popiełuszko.
+
+# 
+
+# 25 marca byliśmy na **Marszu Świętości Życia**! Dziękujemy za wspólny udział i modlitwę.
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+<!--{{json:{"created_date":"2011-03-28 15:30:12","publish_down":"0000-00-00 00:00:00","id":"111"}}}-->

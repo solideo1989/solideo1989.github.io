@@ -1,0 +1,50 @@
+---
+title: Niezwykła Droga Światła już w środę
+date: 2009-05-24
+redirect_from: 
+  - 2009/2009.05.24-niezwykla-droga-swiatla-juz-w-srode
+  - niezwykla-droga-swiatla-juz-w-srode
+
+published: true
+---
+
+
+
+# Niezwykła Droga Światła już w środę
+
+<time>środa 27 maja, godz. 20.30</time>
+
+środa 27 maja, godz. 20.30 | ASK "Soli Deo" oraz ks. Maciej Szeszko SDS z Towarzystwa Boskiego Zbawiciela (Salwatorianie) zapraszają na niezwykłą
+
+Drogę Światła - Via Lucis
+
+w środę 27 maja o godz. 20.30 do Parafii NMP Matki Zbawiciela, znajdującej się przy ul. Olimpijskiej 82 (wejście od Płatowcowej).
+
+Dojazd:
+- z przystanków Metro Racławicka, Odyńca do p. Miłobędzka
+- z Wołoskiej piechota
+
+Plan dojhazdu na stronie:&nbsp;[www.warszawa.sds.pl](http://www.warszawa.sds.pl)
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): środa 27 maja, godz. 20.30 | ASK "Soli Deo" oraz ks. Maciej Szeszko SDS z Towarzystwa Boskiego Zbawiciela (Salwatorianie) zapraszają na niezwykłą
+
+
+
+Drogę Światła - Via Lucis
+
+
+
+w środę 27 maja o godz. 20.30 do Parafii NMP Matki Zbawiciela, znajdującej się przy ul. Olimpijskiej 82 (wejście od Płatowcowej).
+
+Dojazd:
+- z przystanków Metro Racławicka, Odyńca do p. Miłobędzka
+- z Wołoskiej piechota
+
+
+
+Plan dojhazdu na stronie:&nbsp;[www.warszawa.sds.pl](http://www.warszawa.sds.pl)
+
+-->
+
+<!--{{json:{"created_date":"2009-05-24 13:05:31","publish_down":"0000-00-00 00:00:00","id":"763"}}}-->

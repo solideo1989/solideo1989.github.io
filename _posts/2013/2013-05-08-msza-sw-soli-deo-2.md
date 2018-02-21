@@ -1,0 +1,18 @@
+---
+title: Msza św. Soli Deo 2
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-msza-sw-soli-deo-2
+
+published: true
+---
+
+
+
+# Msza św. Soli Deo 2
+
+<time>data wkrótce</time>
+
+data wkrótce | Gorąco zapraszamy na październikową Mszę św. Soli Deo. Najprawdopodobniej odbędzie się w przyszłym tygodniu (24-28 października 2005), w naszej siedzibie przy ul. Corazziego 7.
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"256"}}}-->

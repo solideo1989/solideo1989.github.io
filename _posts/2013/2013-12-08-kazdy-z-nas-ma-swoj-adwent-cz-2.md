@@ -1,0 +1,26 @@
+---
+title: Każdy z nas ma swój Adwent - cz. 2.
+date: 2013-12-08
+redirect_from: 
+  - 2013/2013.12.08-kazdy-z-nas-ma-swoj-adwent-cz-2
+  - kazdy-z-nas-ma-swoj-adwent-cz-2
+
+published: true
+---
+
+
+![/assets/posts/2013/2013-12-08-kazdy-z-nas-ma-swoj-adwent-cz-2/rekol_na_fali01.jpg](/assets/posts/2013/2013-12-08-kazdy-z-nas-ma-swoj-adwent-cz-2/rekol_na_fali01.jpg)
+
+# Każdy z nas ma swój Adwent - cz. 2.
+
+<time>2013-12-08 08:38:39</time>
+
+
+
+W dziale multimedia czeka na Was **druga część "Rekolekcji NA FALI... Radia Kampus! - Każdy z nas ma swój Adwent"**, które głosi dla nas **o. Michał Adamski** w audycji REFLEKtor.
+
+
+Miłego słuchania!
+
+
+<!--{{json:{"created_date":"2013-12-08 08:38:39","publish_down":"0000-00-00 00:00:00","id":"5347"}}}-->

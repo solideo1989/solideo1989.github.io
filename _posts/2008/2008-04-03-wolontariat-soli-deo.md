@@ -1,0 +1,27 @@
+---
+title: Wolontariat Soli Deo
+date: 2008-04-03
+redirect_from: 
+  - 2008/2008.04.03-wolontariat-soli-deo
+  - wolontariat-soli-deo-35
+
+published: true
+---
+
+
+
+# Wolontariat Soli Deo
+
+<time>dziś</time>
+
+dziś | Czy masz czas, którym możesz się podzielić?
+Czy chciałbyś zrobić coś dobrego i pożytecznego dla innych?
+Czy wiesz ilu ludziom możesz pomóc?
+
+Dowiedz się więcej!
+
+Skontaktuj się z nami: [mail%n%wolontariat.solideo@gmail.com] 
+
+         
+
+<!--{{json:{"created_date":"2008-04-03 19:08:05","publish_down":"0000-00-00 00:00:00","id":"603"}}}-->

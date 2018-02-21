@@ -1,0 +1,19 @@
+---
+title: Kobieta i Miłość
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-kobieta-i-milosc
+
+published: true
+---
+
+
+
+# Kobieta i Miłość
+
+<time>Dziś (data umieszczenia na nowej stronie: 2013-05-08 20:59:32)</time>
+
+Dziś | Zachęcamy do lektury tekstu ks. Marka Dziewieckiego "Kobieta i Miłość" nawiązującego tematyką do organizowanej przez nas w marcu konferencji "Czy Maryja była feministką?"
+
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"920"}}}-->

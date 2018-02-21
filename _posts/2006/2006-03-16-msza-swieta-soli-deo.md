@@ -1,0 +1,19 @@
+---
+title: Msza Święta Soli Deo
+date: 2006-03-16
+redirect_from: 
+  - 2006/2006.03.16-msza-swieta-soli-deo
+  - msza-swieta-soli-deo-9
+
+published: true
+---
+
+
+
+# Msza Święta Soli Deo
+
+<time>24 marca 2006, godz.18:00</time>
+
+24 marca 2006, godz.18:00 | KT przy UW zaprasza na Mszę Świętą dla SOLI DEO, która odbędzie się w piątek **24 marca o godz. 18:00 u Dominikanów (w kaplicy klasztornej) przy ul. Freta 10.** Mszę Święta odprawi dla nas wyjątkowo o.Marcin Mogielski. Po Mszy będzie miała miejsce prezentacja o Kardynale Wyszyńskim.
+
+<!--{{json:{"created_date":"2006-03-16 00:20:05","publish_down":"0000-00-00 00:00:00","id":"316"}}}-->

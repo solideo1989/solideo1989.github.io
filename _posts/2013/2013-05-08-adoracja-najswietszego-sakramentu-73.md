@@ -1,0 +1,25 @@
+---
+title: Adoracja Najświętszego Sakramentu 73
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-adoracja-najswietszego-sakramentu-73
+
+published: true
+---
+
+
+![sakrament](images/stories/grafiki/sakrament.jpg)
+
+# Adoracja Najświętszego Sakramentu 73
+
+<time>2013-05-08 20:59:32</time>
+
+
+**
+****23 lutego (czwartek) o godzina 19:15**
+Kaplica Res Sacra Miser ([mapka](http://g.co/maps/x62yh))
+Przyjdźcie by pobyć w obliczu Jezusa oraz uczyć się miłości do Ojczyzny od naszego Patrona - Kardynała Stefana Wyszyńskiego.
+Czekamy na Ciebie!
+
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"1067"}}}-->

@@ -1,0 +1,29 @@
+---
+title: Zapraszamy do sekcji PR!
+date: 2012-11-10
+redirect_from: 
+  - zapraszamy-do-sekcji-pr
+  - 2012/2012.11.10-zapraszamy-do-sekcji-pr
+
+published: true
+---
+
+
+![images/stories/pr.jpg](images/stories/pr.jpg)
+
+# Zapraszamy do sekcji PR!
+
+<time>2012-11-10 22:42:33</time>
+
+
+
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+
+
+
+-->
+
+<!--{{json:{"created_date":"2012-11-10 22:42:33","publish_down":"0000-00-00 00:00:00","id":"1138"}}}-->

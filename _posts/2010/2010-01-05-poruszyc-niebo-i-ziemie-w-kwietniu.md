@@ -1,0 +1,21 @@
+---
+title: Poruszyć Niebo i Ziemię w kwietniu
+date: 2010-01-05
+redirect_from: 
+  - 2010/2010.01.05-poruszyc-niebo-i-ziemie-w-kwietniu
+  - poruszyc-niebo-i-ziemie-w-kwietniu
+
+published: true
+---
+
+
+
+# Poruszyć Niebo i Ziemię w kwietniu
+
+<time>Dziś (data umieszczenia na nowej stronie: 2010-01-05 14:17:06)</time>
+
+Dziś | Serdecznie zapraszamy na kwietniowe spotkania z cyklu Poruszyć Niebo i Ziemię - akcję zapisów do banku dawców szpiku, spotkanie z ks. Piotrem Pawlukiewiczem oraz warsztaty. Zachęcamy również do zapoznania się do z materiałami z marcowego bloku Porozmawiajmy o Wartościach.
+Więcej informacji na stronach projektu.
+
+
+<!--{{json:{"created_date":"2010-01-05 14:17:06","publish_down":"0000-00-00 00:00:00","id":"843"}}}-->

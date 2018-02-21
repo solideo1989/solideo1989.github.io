@@ -1,0 +1,22 @@
+---
+title: [SGH] Dlaczego w Niemczech nie ma dobrobytu?
+date: 2005-05-17
+redirect_from: 
+  - sgh-dlaczego-w-niemczech-nie-ma-dobrobytu
+  - 2005/2005.05.17-(sgh)-dlaczego-w-niemczech-nie-ma-dobrobytu
+
+published: true
+---
+
+
+
+# [SGH] Dlaczego w Niemczech nie ma dobrobytu?
+
+<time>1 czerwca 2005, 17:10</time>
+
+1 czerwca 2005, 17:10 | sala 151 na SGH - wykład poprowadzi dr Stanisław Krajski
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 1 czerwca 2005, 17:10 | sala 151 na SGH - wykład poprowadzi dr Stanisław Krajski
+-->
+
+<!--{{json:{"created_date":"2005-05-17 22:58:11","publish_down":"0000-00-00 00:00:00","id":"238"}}}-->

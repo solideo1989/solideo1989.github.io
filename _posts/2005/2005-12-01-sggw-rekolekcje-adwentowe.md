@@ -1,0 +1,22 @@
+---
+title: [SGGW] Rekolekcje Adwentowe
+date: 2005-12-01
+redirect_from: 
+  - 2005/2005.12.01-(sggw)-rekolekcje-adwentowe
+  - sggw-rekolekcje-adwentowe
+
+published: true
+---
+
+
+
+# [SGGW] Rekolekcje Adwentowe
+
+<time>5-7 grudnia 2005</time>
+
+5-7 grudnia 2005 | Juz w najbliższym tygodniu mamy rekolekcje!! [br][b]miejsce: [/b]"Strara weterynaria" bud. 24 aula I[br][b]Poprowadzi: [/b]ks Dariusz Szyszka, duszpasterz z kościoła św. Anny [br][b]Temat: [/b]"Szczęściem jednego człowieka jest drugi człowiek". Zapraszamy!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 5-7 grudnia 2005 | Juz w najbliższym tygodniu mamy rekolekcje!! [br][b]miejsce: [/b]"Strara weterynaria" bud. 24 aula I[br][b]Poprowadzi: [/b]ks Dariusz Szyszka, duszpasterz z kościoła św. Anny [br][b]Temat: [/b]"Szczęściem jednego człowieka jest drugi człowiek". Zapraszamy!
+-->
+
+<!--{{json:{"created_date":"2005-12-01 20:50:56","publish_down":"0000-00-00 00:00:00","id":"281"}}}-->

@@ -1,0 +1,33 @@
+---
+title: Dyżury duszpasterskie na PW!
+date: 2012-10-19
+redirect_from: 
+  - dyzury-duszpasterskie-na-pw-1
+  - 2012/2012.10.19-dyzury-duszpasterskie-na-pw
+
+published: true
+---
+
+
+![images/stories/2012/xjarek.jpg](images/stories/2012/xjarek.jpg)
+
+# Dyżury duszpasterskie na PW!
+
+<time>2012-10-19 20:06:15</time>
+
+
+
+
+
+
+ 
+
+
+Niech osoby z Politechniki nie czują się pokrzywdzone! &nbsp;Zapraszamy na dyżury duszpasterskie również na Waszej uczleni. Poprowadzi je **ks. Jarek Kotula**.
+
+
+- **wtorki** od 13.15 do 14.45,
+- ewentualnie **środy** 14.00 do 15.45 i **piątki** 14.30 do 16.00 po uprzedzeniu emailem (jarek@kotula.pl)
+
+
+<!--{{json:{"created_date":"2012-10-19 20:06:15","publish_down":"0000-00-00 00:00:00","id":"1128"}}}-->

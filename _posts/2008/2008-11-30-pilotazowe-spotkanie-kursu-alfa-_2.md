@@ -1,0 +1,27 @@
+---
+title: Pilotażowe spotkanie kursu Alfa
+date: 2008-11-30
+redirect_from: 
+  - pilotazowe-spotkanie-kursu-alfa-40
+  - 2008/2008.11.30-pilotazowe-spotkanie-kursu-alfa-_2
+
+published: true
+---
+
+
+
+# Pilotażowe spotkanie kursu Alfa
+
+<time>3 grudnia</time>
+
+3 grudnia | 
+Zapraszamy na pilotażowe spotkanie kursu Alfa, organizowanego przez wspólnotę Woda Życia. 
+
+
+3 grudnia, godz 17.10, SGH
+
+
+Spotkania odbywające się w ramach kursu stanowią praktyczne wprowadzenie w wiarę chrześcijańską
+
+
+<!--{{json:{"created_date":"2008-11-30 18:24:47","publish_down":"0000-00-00 00:00:00","id":"686"}}}-->

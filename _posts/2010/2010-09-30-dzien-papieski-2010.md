@@ -1,0 +1,32 @@
+---
+title: Dzień Papieski 2010
+date: 2010-09-30
+redirect_from: 
+  - 2010/2010.09.30-dzien-papieski-2010
+  - dzien-papieski-2010
+
+published: true
+---
+
+
+
+# Dzień Papieski 2010
+
+<time>9 października 2010 godz. 18</time>
+
+9 października 2010 godz. 18 | 
+Z okazji obchodów Dnia Papieskiego 2010 zapraszamy na: odważny wieczór !
+9 października (sobota) 2010 r.
+
+Po szczegóły kliknij na "więcej"
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 9 października 2010 godz. 18 | 
+Z okazji obchodów Dnia Papieskiego 2010 zapraszamy na: odważny wieczór !
+9 października (sobota) 2010 r.
+
+Po szczegóły kliknij na "więcej"
+
+-->
+
+<!--{{json:{"created_date":"2010-09-30 19:24:25","publish_down":"0000-00-00 00:00:00","id":"952"}}}-->

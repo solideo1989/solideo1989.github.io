@@ -1,0 +1,22 @@
+---
+title: zaliczenia, sesja, sesja
+date: 2006-01-18
+redirect_from: 
+  - 2006/2006.01.18-zaliczenia-sesja-sesja
+  - zaliczenia-sesja-sesja
+
+published: true
+---
+
+
+
+# zaliczenia, sesja, sesja
+
+<time>ech</time>
+
+ech | jak widać po ilości wiadomości na stonie (sorki..), wielkie zaliczanie trwa, więc krótko: POWODZENIA!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): ech | jak widać po ilości wiadomości na stonie (sorki..), wielkie zaliczanie trwa, więc krótko: POWODZENIA!
+-->
+
+<!--{{json:{"created_date":"2006-01-18 22:59:11","publish_down":"0000-00-00 00:00:00","id":"299"}}}-->

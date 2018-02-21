@@ -1,0 +1,30 @@
+---
+title: Zespół muzyczny „Lumen”
+date: 2013-08-02
+redirect_from: 
+  - 2013/2013.08.02-zespol-muzyczny-lumen
+  - zespol-muzyczny-lumen
+
+published: true
+---
+
+
+
+# Zespół muzyczny „Lumen”
+
+<time>2013-08-02 21:57:31</time>
+
+
+ 
+
+
+Sekcja muzyczna oficjalnie zostaje powołana do życia Zapraszamy wszystkich (jeszcze nic nieumiejących, początkujących, zaawansowanych oraz mistrzów) chcących śpiewać lub grać na instrumentach. 
+
+
+Spotkania sekcji są w każdą sobotę o 16:00 w wieży przy kościele św. Anny. Poza spotkaniami w sobotę widujemy się na Mszach Soli Deo, na których dbamy o oprawę muzyczną.
+
+
+SZEF: Jarek Piątek 
+
+
+<!--{{json:{"created_date":"2013-08-02 21:57:31","publish_down":"0000-00-00 00:00:00","id":"5266"}}}-->

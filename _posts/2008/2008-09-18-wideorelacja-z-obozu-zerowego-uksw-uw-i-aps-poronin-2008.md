@@ -1,0 +1,32 @@
+---
+title: Wideorelacja z obozu zerowego UKSW, UW i APS - Poronin 2008
+date: 2008-09-18
+redirect_from: 
+  - wideorelacja-z-obozu-zerowego-uksw-uw-i-aps-poronin-2008
+  - 2008/2008.09.18-wideorelacja-z-obozu-zerowego-uksw-uw-i-aps-poronin-2008
+
+published: true
+---
+
+
+
+# Wideorelacja z obozu zerowego UKSW, UW i APS - Poronin 2008
+
+<time>już teraz!</time>
+
+już teraz! | 
+Zapraszamy do obejrzenia wideorelacji:
+
+[link%n%Wideorelacja na Youtube%http://www.youtube.com/watch?v=c1Xssi89Z4U]
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): już teraz! | 
+Zapraszamy do obejrzenia wideorelacji:
+
+[link%n%Wideorelacja na Youtube%http://www.youtube.com/watch?v=c1Xssi89Z4U]
+
+
+-->
+
+<!--{{json:{"created_date":"2008-09-18 22:40:50","publish_down":"0000-00-00 00:00:00","id":"649"}}}-->

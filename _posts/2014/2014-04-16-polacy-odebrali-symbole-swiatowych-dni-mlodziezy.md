@@ -1,0 +1,29 @@
+---
+title: Polacy odebrali symbole Światowych Dni Młodzieży
+date: 2014-04-16
+redirect_from: 
+  - 2014/2014.04.16-polacy-odebrali-symbole-swiatowych-dni-mlodziezy
+  - polacy-odebrali-symbole-swiatowych-dni-mlodziezy
+
+published: true
+---
+
+
+![/assets/posts/2014/2014-04-16-polacy-odebrali-symbole-swiatowych-dni-mlodziezy/sdm16_symbole01.jpg](/assets/posts/2014/2014-04-16-polacy-odebrali-symbole-swiatowych-dni-mlodziezy/sdm16_symbole01.jpg)
+
+# Polacy odebrali symbole Światowych Dni Młodzieży
+
+<time>2014-04-16 18:15:13</time>
+
+
+
+„W Watykanie z udziałem kilkudziesięciu tysięcy pielgrzymów z całego świata odbyły się pod przewodnictwem Franciszka uroczystości Niedzieli Palmowej nazywanej także „Niedzielą Męki Pańskiej". 
+
+
+Na zakończenie Mszy św. grupa Brazylijczyków wręczyła krzyż Światowych Dni Młodzieży oraz ikonę Matki Bożej „Salus Populi Romani” swoim rówieśnikom z Polski.” (źródło: ekai.pl)
+
+
+**… a wśród wspomnianej polskiej młodzieży był Alek – nasz SoliDeowy kolega**. Cieszymy się i jesteśmy dumni!:-)
+
+
+<!--{{json:{"created_date":"2014-04-16 18:15:13","publish_down":"0000-00-00 00:00:00","id":"5384"}}}-->

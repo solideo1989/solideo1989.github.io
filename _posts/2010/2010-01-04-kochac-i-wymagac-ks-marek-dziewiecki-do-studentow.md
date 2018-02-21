@@ -1,0 +1,53 @@
+---
+title: Kochać i wymagać - ks. Marek Dziewiecki do studentów
+date: 2010-01-04
+redirect_from: 
+  - 2010/2010.01.04-kochac-i-wymagac-ks-marek-dziewiecki-do-studentow
+  - kochac-i-wymagac-ks-marek-dziewiecki-do-studentow
+
+published: true
+---
+
+
+
+# Kochać i wymagać - ks. Marek Dziewiecki do studentów
+
+<time>17 stycznia 2010 r., godz. 20.30</time>
+
+17 stycznia 2010 r., godz. 20.30 | Dlaczego nie istnieje miłość bez wymagań i bez radości? 
+
+&nbsp;Odpowiedzi udzieli 
+
+ks. Marek Dziewiecki
+
+Konferencja DA "Arka" rozpocznie się o godz. 20.30 w dolnym kościele Nawrócenia św. Pawła Apostoła przy ul. Kobielskiej w Warszawie (najprościej dojechać do ronda Wiatraczna). 
+
+Przed konferencją, o godz. 19.30, odbędzie 
+się Msza św. studencka, którą odprawi ks. M. Dziewiecki i podczas której wygłosi homilię. 
+
+Zapraszamy!
+
+         
+
+         
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 17 stycznia 2010 r., godz. 20.30 | Dlaczego nie istnieje miłość bez wymagań i bez radości? 
+
+&nbsp;Odpowiedzi udzieli 
+
+ks. Marek Dziewiecki
+
+Konferencja DA "Arka" rozpocznie się o godz. 20.30 w dolnym kościele Nawrócenia św. Pawła Apostoła przy ul. Kobielskiej w Warszawie (najprościej dojechać do ronda Wiatraczna). 
+
+Przed konferencją, o godz. 19.30, odbędzie się Msza św. studencka, którą odprawi ks. M. Dziewiecki i podczas której wygłosi homilię. 
+
+Zapraszamy!
+
+         
+
+         
+         
+-->
+
+<!--{{json:{"created_date":"2010-01-04 13:57:10","publish_down":"0000-00-00 00:00:00","id":"838"}}}-->

@@ -1,0 +1,28 @@
+---
+title: Fotorelacja z Balu SMM 2008
+date: 2008-05-28
+redirect_from: 
+  - 2008/2008.05.28-fotorelacja-z-balu-smm-2008
+  - fotorelacja-z-balu-smm-2008
+
+published: true
+---
+
+
+
+# Fotorelacja z Balu SMM 2008
+
+<time>już teraz!</time>
+
+już teraz! | 
+**Zapraszamy do obejrzenia fotorelacji z Balu SMM 2008.**
+[http://www.youtube.com/watch?v=xKnlVcPICZc](http://www.youtube.com/watch?v=xKnlVcPICZc)
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): już teraz! | 
+**Zapraszamy do obejrzenia fotorelacji z Balu SMM 2008.**
+[http://www.youtube.com/watch?v=xKnlVcPICZc](http://www.youtube.com/watch?v=xKnlVcPICZc)
+
+-->
+
+<!--{{json:{"created_date":"2008-05-28 09:13:14","publish_down":"0000-00-00 00:00:00","id":"633"}}}-->

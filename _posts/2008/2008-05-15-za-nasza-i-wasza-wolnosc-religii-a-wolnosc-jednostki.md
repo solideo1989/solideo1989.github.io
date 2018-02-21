@@ -1,0 +1,26 @@
+---
+title: Za naszą i waszą - wolność religii a wolność jednostki
+date: 2008-05-15
+redirect_from: 
+  - 2008/2008.05.15-za-nasza-i-wasza-wolnosc-religii-a-wolnosc-jednostki
+  - za-nasza-i-wasza-wolnosc-religii-a-wolnosc-jednostki
+  - multimedia/archiwum/13-aktualnosci/631-za-nasza-i-wasza-wolnosc-religii-a-wolnosc-jednostki
+
+published: true
+---
+
+
+
+# Za naszą i waszą - wolność religii a wolność jednostki
+
+<time>26-27.05.2008r.</time>
+
+26-27.05.2008r. | Serdecznie zapraszamy na konferencję organizowaną na UW przy współpracy Amnesty International. 
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 26-27.05.2008r. | Serdecznie zapraszamy na konferencję organizowaną na UW przy współpracy Amnesty International. 
+
+
+-->
+
+<!--{{json:{"created_date":"2008-05-15 22:42:38","publish_down":"0000-00-00 00:00:00","id":"631"}}}-->

@@ -1,0 +1,30 @@
+---
+title: Poruszyć Niebo i Ziemię w Eterze także roku akademickim!
+date: 2009-08-06
+redirect_from: 
+  - 2009/2009.08.06-poruszyc-niebo-i-ziemie-w-eterze-takze-roku-akademickim
+  - poruszyc-niebo-i-ziemie-w-eterze-takze-roku-akademickim
+
+published: true
+---
+
+
+
+# Poruszyć Niebo i Ziemię w Eterze także roku akademickim!
+
+<time>każda niedziela, godz 10.00</time>
+
+każda niedziela, godz 10.00 | 
+W&nbsp;wakacje zaczęliśmy nadawać specjalną audycję "Poruszyć Niebo i Ziemię" na antenie Radia Kampus (97,1 FM).&nbsp;Teraz audycja będzie kontynuowana w roku akademickim!
+Zachęcamy do słuchania audycji -&nbsp;w każdą niedzielę o 10 rano. 
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): każda niedziela, godz 10.00 | 
+W&nbsp;wakacje zaczęliśmy nadawać specjalną audycję "Poruszyć Niebo i Ziemię" na antenie Radia Kampus (97,1 FM).&nbsp;Teraz audycja będzie kontynuowana w roku akademickim!
+
+
+Zachęcamy do słuchania audycji -&nbsp;w każdą niedzielę o 10 rano. 
+
+-->
+
+<!--{{json:{"created_date":"2009-08-06 15:29:50","publish_down":"0000-00-00 00:00:00","id":"775"}}}-->

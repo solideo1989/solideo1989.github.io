@@ -1,0 +1,22 @@
+---
+title: [AM] Spotkania formacyjne na AM - zmiana!
+date: 2006-10-16
+redirect_from: 
+  - am-spotkania-formacyjne-na-am-zmiana
+  - 2006/2006.10.16-(am)-spotkania-formacyjne-na-am-zmiana
+
+published: true
+---
+
+
+
+# [AM] Spotkania formacyjne na AM - zmiana!
+
+<time>każda środa,  godz. 18:30</time>
+
+każda środa,  godz. 18:30 | Spotkania formacyjne na Akademii Medycznej będą odbywać się w każdą [b]środę o godz. 18.30[/b], począwszy od 8 XI, a nie wtorki jak pierwotnie planowano. Miejsce pozostaje bez zmian: sala nr 1 (mikroskopowa) w Anatomicum (ul. Chałubińskiego 5). Spotkania prowadzi ksiądz Maciek Szeszko.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): każda środa,  godz. 18:30 | Spotkania formacyjne na Akademii Medycznej będą odbywać się w każdą [b]środę o godz. 18.30[/b], począwszy od 8 XI, a nie wtorki jak pierwotnie planowano. Miejsce pozostaje bez zmian: sala nr 1 (mikroskopowa) w Anatomicum (ul. Chałubińskiego 5). Spotkania prowadzi ksiądz Maciek Szeszko.
+-->
+
+<!--{{json:{"created_date":"2006-10-16 13:14:51","publish_down":"0000-00-00 00:00:00","id":"391"}}}-->

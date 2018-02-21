@@ -1,0 +1,22 @@
+---
+title: &quot;Antykoncepcja. Czy wiesz już wszystko?&quot;
+date: 2006-11-02
+redirect_from: 
+  - 2006/2006.11.02-quot-antykoncepcja-czy-wiesz-juz-wszystko-quot
+  - 2006/2006.11.02-antykoncepcja-czy-wiesz-juz-wszystko
+
+published: true
+---
+
+
+
+# &quot;Antykoncepcja. Czy wiesz już wszystko?&quot;
+
+<time>25 listopada 2006 r.</time>
+
+25 listopada 2006 r. | Konferencja "Antykoncepcja &#8211; czy wiesz już wszystko?" jest organizowana m.in. przez Koło Terenowe Soli Deo na Akademii Medycznej. Podczas konferencji zostaną omówione bardzo dokładnie różne aspekty antykoncepcji w dzisiejszym świecie.[br][br]Konferencja odbędzie się [u]pod patronatem ministra zdrowia prof. Zbigniewa Religi[/u]. [br][br][b]Wstęp wolny[/b][br][br]Rejestracja na stronie www.dozrodla.pl
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 25 listopada 2006 r. | Konferencja "Antykoncepcja &#8211; czy wiesz już wszystko?" jest organizowana m.in. przez Koło Terenowe Soli Deo na Akademii Medycznej. Podczas konferencji zostaną omówione bardzo dokładnie różne aspekty antykoncepcji w dzisiejszym świecie.[br][br]Konferencja odbędzie się [u]pod patronatem ministra zdrowia prof. Zbigniewa Religi[/u]. [br][br][b]Wstęp wolny[/b][br][br]Rejestracja na stronie www.dozrodla.pl
+-->
+
+<!--{{json:{"created_date":"2006-11-02 21:26:51","publish_down":"0000-00-00 00:00:00","id":"408"}}}-->

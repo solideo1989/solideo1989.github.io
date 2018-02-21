@@ -1,0 +1,69 @@
+---
+title: Uniwersytet Kardynała Stefana Wyszyńskiego - kontakt
+date: 2010-01-20
+redirect_from: 
+  - 2010/2010.01.20-uniwersytet-kardynala-stefana-wyszynskiego-kontakt
+
+published: true
+---
+
+
+
+# Uniwersytet Kardynała Stefana Wyszyńskiego - kontakt
+
+<time>2010-01-20 17:00:45</time>
+
+
+*ul. Dewajtis 5, pokój 402a (I piętro nowego budynku), 01-815 Warszawa*
+
+
+ 
+
+
+PREZES
+
+
+Michał Chelis
+
+
+tel.&nbsp;785-881-992
+
+
+**ch_michal@interia.eu**
+
+
+**&nbsp;**
+
+
+SKARBNIK, PR
+
+
+Agata Błażewicz
+
+
+tel. 506-498-764
+
+
+agatablazewicz@onet.pl
+
+
+ 
+
+
+
+ 
+
+
+&nbsp;
+
+
+SEKRETARZ, HR
+
+
+Kinga Wojcieszek
+
+
+**kinwoj89@gmail.com**
+
+
+<!--{{json:{"created_date":"2010-01-20 17:00:45","publish_down":"0000-00-00 00:00:00","id":"59"}}}-->

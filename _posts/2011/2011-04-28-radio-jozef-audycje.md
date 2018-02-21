@@ -1,0 +1,26 @@
+---
+title: Radio Józef - audycje
+date: 2011-04-28
+redirect_from: 
+  - 2011/2011.04.28-radio-jozef-audycje
+
+published: true
+---
+
+
+
+# Radio Józef - audycje
+
+<time>2011-04-28 09:39:10</time>
+
+
+Audycja w **Radiu Józef** (obecnie Radio Plus) z lutego 2005 roku, w której pięciu członków naszego Stowarzyszenia opowiadało o tym kim jesteśmy i czym się zajmujemy:
+
+
+ 
+
+
+{music}mp3/audycje_Radio_Jozef{/music}
+
+
+<!--{{json:{"created_date":"2011-04-28 09:39:10","publish_down":"0000-00-00 00:00:00","id":"151"}}}-->

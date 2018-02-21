@@ -1,0 +1,28 @@
+---
+title: Sylwester 2006/2007 [red](nowe informacje)[/red]
+date: 2006-11-07
+redirect_from: 
+  - 2006/2006.11.07-sylwester-2006-2007-(nowe-informacje)(-red)
+  - sylwester-2006-2007-red-nowe-informacje-red
+
+published: true
+---
+
+
+
+# Sylwester 2006/2007 [red](nowe informacje)[/red]
+
+<time>28.12.2006 - 2.01.2007</time>
+
+28.12.2006 - 2.01.2007 | 
+informujemy, że **zapisy zostały wznowione DEFINITYWNIE ZAKOŃCZONE**
+Dla uczestników udostępniamy Sylwestra w Dusznikach **"niezbędnik"** z najświerzszymi informacjami dot. Sylwestra, a&nbsp;którego możecie pobrać ze strony dot. Sylwestra (klik "więcej")
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 28.12.2006 - 2.01.2007 | 
+informujemy, że **zapisy zostały wznowione DEFINITYWNIE ZAKOŃCZONE**
+Dla uczestników udostępniamy Sylwestra w Dusznikach **"niezbędnik"** z najświerzszymi informacjami dot. Sylwestra, a&nbsp;którego możecie pobrać ze strony dot. Sylwestra (klik "więcej")
+
+-->
+
+<!--{{json:{"created_date":"2006-11-07 16:01:03","publish_down":"0000-00-00 00:00:00","id":"410"}}}-->

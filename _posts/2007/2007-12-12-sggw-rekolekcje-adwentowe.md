@@ -1,0 +1,29 @@
+---
+title: [SGGW] Rekolekcje Adwentowe
+date: 2007-12-12
+redirect_from: 
+  - sggw-rekolekcje-adwentowe-26
+  - 2007/2007.12.12-(sggw)-rekolekcje-adwentowe
+
+published: true
+---
+
+
+
+# [SGGW] Rekolekcje Adwentowe
+
+<time>17-19 grudnia 2007, godz. 20:00</time>
+
+17-19 grudnia 2007, godz. 20:00 | *Temat:* "Chłopak i dziewczyna.Czy to już rodzina?-gdzie jest w domu miejsce dla pana Boga"
+
+*Prowadzi:* ks.Macej Szeszko
+
+*Czas:* 17-19.12.2007 godz.20.00
+
+*Miejsce:* budnynek 24, aula 1
+
+&nbsp;
+
+**Ks. Macej Szeszko** jest księdzem ze zgromadzenia Salwatorianów, jest przewodnikiem grupy&nbsp;zielonej Warszawskiej Akademickiej Pielgrzymki Metropolitarnej(WAPM) od roku 2006 , wikariusz parafii NMP Matki Zbawiciela w Warszawie. Pozatym jest bardzo radosnym i pełnym energi księdzem :).
+
+<!--{{json:{"created_date":"2007-12-12 22:34:37","publish_down":"0000-00-00 00:00:00","id":"550"}}}-->

@@ -1,0 +1,33 @@
+---
+title: Czego pragną mężczyźni&#8230;?
+date: 2008-10-20
+redirect_from: 
+  - czego-pragna-mezczyzni-8230
+  - 2008/2008.10.20-czego-pragna-mezczyzni-8230
+
+published: true
+---
+
+
+
+# Czego pragną mężczyźni&#8230;?
+
+<time>23 października 2008 r., godz. 19.3o</time>
+
+23 października 2008 r., godz. 19.3o | Czego pragną mężczyźni&#8230;? To temat najbliższego spotkania z cyklu
+
+Duchowość Mężczyzny i Kobiety organizowanego przez Duszpasterstwo Akademickie DĄB. Naszym gościem będzie Sylwester
+
+Laskowski (czwartek, 19:30, DA DĄB).
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 23 października 2008 r., godz. 19.3o | Czego pragną mężczyźni&#8230;? To temat najbliższego spotkania z cyklu
+
+Duchowość Mężczyzny i Kobiety organizowanego przez Duszpasterstwo Akademickie DĄB. Naszym gościem będzie Sylwester
+
+Laskowski (czwartek, 19:30, DA DĄB).
+
+
+-->
+
+<!--{{json:{"created_date":"2008-10-20 13:21:18","publish_down":"0000-00-00 00:00:00","id":"666"}}}-->

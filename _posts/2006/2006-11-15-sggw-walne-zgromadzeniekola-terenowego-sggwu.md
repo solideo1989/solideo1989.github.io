@@ -1,0 +1,22 @@
+---
+title: [SGGW] Walne Zgromadzenie[br]Koła Terenowego [u]SGGW[/u]
+date: 2006-11-15
+redirect_from: 
+  - sggw-walne-zgromadzenie-br-kola-terenowego-u-sggw-u
+  - 2006/2006.11.15-(sggw)-walne-zgromadzeniekola-terenowego-sggw(-u)
+
+published: true
+---
+
+
+
+# [SGGW] Walne Zgromadzenie[br]Koła Terenowego [u]SGGW[/u]
+
+<time>22 listopada 2006, godz.19:30 [red]aktualizacja[/red]</time>
+
+22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok. godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok. godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+-->
+
+<!--{{json:{"created_date":"2006-11-15 16:59:37","publish_down":"0000-00-00 00:00:00","id":"418"}}}-->

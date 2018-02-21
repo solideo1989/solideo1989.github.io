@@ -1,0 +1,44 @@
+---
+title: Obchody rocznicy śmierci Prymasa Wyszyńskiego
+date: 2009-05-24
+redirect_from: 
+  - 2009/2009.05.24-obchody-rocznicy-smierci-prymasa-wyszynskiego
+  - obchody-rocznicy-smierci-prymasa-wyszynskiego
+
+published: true
+---
+
+
+
+# Obchody rocznicy śmierci Prymasa Wyszyńskiego
+
+<time>czwartek 28 maja, godz. 19.00</time>
+
+czwartek 28 maja, godz. 19.00 | 
+Zbliżają się obchody śmierci kard. Wyszyńskiego.
+
+
+Serdecznie zapraszamy do wzięcia udziału w obchodach tej rocznicy&nbsp;podczas&nbsp;*Mszy Św.* w *Archikatedrze Warszawskiej* w czwartek 
+**28 maja o godz. 19.00**.
+
+
+ASK "Soli Deo" jest wspólodpowiedzialne za oprawę tej uroczystości.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): czwartek 28 maja, godz. 19.00 | 
+Zbliżają się obchody śmierci kard. Wyszyńskiego.
+
+
+
+
+Serdecznie zapraszamy do wzięcia udziału w obchodach tej rocznicy&nbsp;podczas&nbsp;*Mszy Św.* w *Archikatedrze Warszawskiej* w czwartek 
+**28 maja o godz. 19.00**.
+
+
+
+
+ASK "Soli Deo" jest wspólodpowiedzialne za oprawę tej uroczystości.
+
+-->
+
+<!--{{json:{"created_date":"2009-05-24 13:18:31","publish_down":"0000-00-00 00:00:00","id":"764"}}}-->

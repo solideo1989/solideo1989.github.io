@@ -1,0 +1,26 @@
+---
+title: Życie pełne uzależnień
+date: 2011-04-27
+redirect_from: 
+  - 2011/2011.04.27-zycie-pelne-uzaleznien
+
+published: true
+---
+
+
+
+# Życie pełne uzależnień
+
+<time>2011-04-27 17:49:13</time>
+
+
+Seminarium "**Życie pełne uzależnień**" wygłoszone przez o. Jana Górę w marcu 2006 r. na Politechnice Warszawskiej:
+
+
+ 
+
+
+{music}mp3/zycie_pelne_uzaleznien{/music}
+
+
+<!--{{json:{"created_date":"2011-04-27 17:49:13","publish_down":"0000-00-00 00:00:00","id":"132"}}}-->

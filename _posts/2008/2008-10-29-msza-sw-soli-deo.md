@@ -1,0 +1,37 @@
+---
+title: Msza Św. Soli Deo
+date: 2008-10-29
+redirect_from: 
+  - 2008/2008.10.29-msza-sw-soli-deo
+  - msza-sw-soli-deo-37
+
+published: true
+---
+
+
+
+# Msza Św. Soli Deo
+
+<time>4 listopada 2008, godz. 19.3o</time>
+
+4 listopada 2008, godz. 19.3o | 
+Zapraszamy wszystkich Członków, Sympatyków 
+
+i Absolwentów ASK Soli Deo na comiesięczną Mszę Świętą.
+
+Czas: najbliższy **wtorek,&nbsp;19:30**
+
+**Miejsce: podziemia kościoła** p.w. Świętej **Anny** na Krakowskim Przedmieściu&nbsp;
+
+Celebruje: ks Darek Szyszka
+
+*Kontakt: Sekcja Formacyjna* ([mail%n%sf.solideo@gmail.com])
+
+         
+
+                  
+
+         
+
+
+<!--{{json:{"created_date":"2008-10-29 12:47:36","publish_down":"0000-00-00 00:00:00","id":"670"}}}-->

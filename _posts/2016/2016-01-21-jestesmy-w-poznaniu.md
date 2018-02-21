@@ -1,0 +1,36 @@
+---
+title: Jesteśmy w Poznaniu !
+date: 2016-01-21
+redirect_from: 
+  - soli-deo-poznan
+  - 2016/2016.01.21-jestesmy-w-poznaniu
+  - 23-aktualnosci/aktualnosci/5454-soli-deo-poznan
+
+published: true
+---
+
+
+![images/Untitled Banner 1.png](images/Untitled Banner 1.png)
+
+# Jesteśmy w Poznaniu ! 
+
+<time>2016-01-21 16:56:00</time>
+
+
+
+
+
+
+I mamy to! ASK Soli Deo Poznań zaprasza wszystkich studentów do działania!
+
+
+Napisz do Karoliny na hr.solideo.poznan@gmail.com 
+
+
+Czekamy właśnie na Ciebie ! 
+
+
+Znajdź nas również na [FACEBOOK](https://www.facebook.com/solideoUMP/)
+
+
+<!--{{json:{"created_date":"2016-01-21 16:56:00","publish_down":"0000-00-00 00:00:00","id":"5454"}}}-->

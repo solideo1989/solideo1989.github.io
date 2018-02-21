@@ -1,0 +1,22 @@
+---
+title: Zegrze - pływanie
+date: 2006-07-11
+redirect_from: 
+  - zegrze-plywanie
+  - 2006/2006.07.11-zegrze-plywanie
+
+published: true
+---
+
+
+
+# Zegrze - pływanie
+
+<time>22 lipca 2006 r.</time>
+
+22 lipca 2006 r. | Zapraszamy na 1 dniowy wypad nad Zalew Zegrzyński. W planach  pływanie po jeziorze żaglówką, rowerami wodnymi, kajakami, opalanie się, ognisko, itp.[br]Chętni proszeni są o zglaszanie się do Dominika: glowacki81@poczta.fm
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 22 lipca 2006 r. | Zapraszamy na 1 dniowy wypad nad Zalew Zegrzyński. W planach  pływanie po jeziorze żaglówką, rowerami wodnymi, kajakami, opalanie się, ognisko, itp.[br]Chętni proszeni są o zglaszanie się do Dominika: glowacki81@poczta.fm
+-->
+
+<!--{{json:{"created_date":"2006-07-11 19:39:35","publish_down":"0000-00-00 00:00:00","id":"366"}}}-->

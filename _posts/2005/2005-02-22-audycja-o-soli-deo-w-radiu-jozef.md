@@ -1,0 +1,22 @@
+---
+title: Audycja o Soli Deo w radiu Józef
+date: 2005-02-22
+redirect_from: 
+  - audycja-o-soli-deo-w-radiu-jozef
+  - 2005/2005.02.22-audycja-o-soli-deo-w-radiu-jozef
+
+published: true
+---
+
+
+
+# Audycja o Soli Deo w radiu Józef
+
+<time>zdarzyło się 22 lutego 2005</time>
+
+zdarzyło się 22 lutego 2005 | Na podstronie &quotmultimedia&quot są pliki mp3 z zarejestrowaną audycją..
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): zdarzyło się 22 lutego 2005 | Na podstronie &quotmultimedia&quot są pliki mp3 z zarejestrowaną audycją..
+-->
+
+<!--{{json:{"created_date":"2005-02-22 20:29:55","publish_down":"0000-00-00 00:00:00","id":"211"}}}-->

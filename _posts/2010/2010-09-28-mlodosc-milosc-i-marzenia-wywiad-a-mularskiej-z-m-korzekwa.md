@@ -1,0 +1,31 @@
+---
+title: Młodość, miłość i marzenia - wywiad A. Mularskiej z M. Korzekwą
+date: 2010-09-28
+redirect_from: 
+  - 2010/2010.09.28-mlodosc-milosc-i-marzenia-wywiad-a-mularskiej-z-m-korzekwa
+  - mlodosc-milosc-i-marzenia-wywiad-a-mularskiej-z-m-korzekwa
+
+published: true
+---
+
+
+
+# Młodość, miłość i marzenia - wywiad A. Mularskiej z M. Korzekwą
+
+<time>Dziś (data umieszczenia na nowej stronie: 2010-09-28 23:50:39)</time>
+
+Dziś | "Niemal każda osoba marzy o szczęściu i o spotkaniu kogoś, kto ją nazawsze pokocha. To jednak zbyt mało, by zacząć budować cywilizacjęmiłości. Taką cywilizację budują ci, którzy pierwsi zaczynają kochać."
+
+"Mam świadomość tego, że chrześcijaństwo bywa przedstawiane przez dorosłych ? czasem nawet przez niektórych księży ? w sposób niezgodny z Ewangelią: jako religia nawołująca do smutku i umartwienia czy jako system nakazów i zakazów, ograniczający wolność i radość życia."
+
+Zachęcamy do lektury wywiadu Anny Mularskiej ("Niedziela Podlaska", Soli Deo UKSW) z Magdaleną Korzekwą (http://magdalenkorzekwa.blogspot.com) pt. 
+
+"Młodość, miłość i marzenia"
+
+W wywiadzie jest mowa o Soli Deo!
+
+Po kliknięciu na "więcej" zajrzyj na strony 6-7.
+
+                  
+
+<!--{{json:{"created_date":"2010-09-28 23:50:39","publish_down":"0000-00-00 00:00:00","id":"951"}}}-->

@@ -1,0 +1,33 @@
+---
+title: Jedź z nami!
+date: 2012-07-06
+redirect_from: 
+  - 2012/2012.07.06-jedz-z-nami
+  - jedz-z-nami
+
+published: true
+---
+
+
+![images/stories/oboz zerowy 2012.jpg](images/stories/oboz zerowy 2012.jpg)
+
+# Jedź z nami!
+
+<time>2012-07-06 20:15:56</time>
+
+
+
+
+**Zapisy zakończone!**
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+
+
+
+
+**Zapisy zakończone!**
+
+-->
+
+<!--{{json:{"created_date":"2012-07-06 20:15:56","publish_down":"0000-00-00 00:00:00","id":"1120"}}}-->

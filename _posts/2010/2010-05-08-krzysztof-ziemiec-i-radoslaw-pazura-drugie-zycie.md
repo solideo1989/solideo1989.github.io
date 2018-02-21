@@ -1,0 +1,34 @@
+---
+title: Krzysztof Ziemiec i Radosław Pazura - Drugie Życie
+date: 2010-05-08
+redirect_from: 
+  - krzysztof-ziemiec-i-radoslaw-pazura-drugie-zycie
+  - 2010/2010.05.08-krzysztof-ziemiec-i-radoslaw-pazura-drugie-zycie
+
+published: true
+---
+
+
+
+# Krzysztof Ziemiec i Radosław Pazura - Drugie Życie
+
+<time>10 maja, 20.15</time>
+
+10 maja, 20.15 | 
+Zapraszamy na spotkanie z **Radosławem Pazurą i Krzysztofem Ziemcem pt. "Drugie Życie" **
+
+**Data i miejsce:** poniedziałek 10 maja, godz. 20.15, Aula im. A.Mickiewicza, Auditorium Maximum, UW.
+
+Znany aktor i ceniony dziennikarz podzielą się swoimi osobistymi, chwytającymi za serce historiami oraz spróbują poszukać odpowiedzi na pytania takie jak: czym jest szczęście w życiu? Jak je odnaleźć? Jak mierzyć się z przeciwnościami losu i z cierpieniem, nie tracąc przy tym wiary? Czy dla osoby błądzącej jest jakaś szansa na przemianę życia?
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 10 maja, 20.15 | 
+Zapraszamy na spotkanie z **Radosławem Pazurą i Krzysztofem Ziemcem pt. "Drugie Życie" **
+
+**Data i miejsce:** poniedziałek 10 maja, godz. 20.15, Aula im. A.Mickiewicza, Auditorium Maximum, UW.
+
+Znany aktor i ceniony dziennikarz podzielą się swoimi osobistymi, chwytającymi za serce historiami oraz spróbują poszukać odpowiedzi na pytania takie jak: czym jest szczęście w życiu? Jak je odnaleźć? Jak mierzyć się z przeciwnościami losu i z cierpieniem, nie tracąc przy tym wiary? Czy dla osoby błądzącej jest jakaś szansa na przemianę życia?
+         
+-->
+
+<!--{{json:{"created_date":"2010-05-08 19:23:01","publish_down":"0000-00-00 00:00:00","id":"929"}}}-->

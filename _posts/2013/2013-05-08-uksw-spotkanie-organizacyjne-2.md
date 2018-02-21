@@ -1,0 +1,26 @@
+---
+title: [UKSW] Spotkanie organizacyjne 2
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-(uksw)-spotkanie-organizacyjne-2
+
+published: true
+---
+
+
+
+# [UKSW] Spotkanie organizacyjne 2
+
+<time>18 grudzień 2006, godz. 18:00</time>
+
+18 grudzień 2006, godz. 18:00 | Chciał(a)byś włączyć się w działalność ASK Soli Deo? Pomóc w organizacji różnych ciekawych wydarzeń? Chciałbyś nauczyć robić projekty ?
+Zapraszamy na spotkanie organizacyjne, na którym omówimy plany na kolejny
+rok akademicki i podzielimy się pracą. 
+
+Poniedziałek 18.XII, godz 18.00, siedziba Soli Deo ul. Corazziego 7, IV
+piętro, sala konferencyjna. Nie wiesz jak trafić! Spotkanie 17:50 pod
+Pomnikiem Starzyńskiego przy wyjściu z metra Ratusz na Pl.Bankowy
+
+
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"427"}}}-->

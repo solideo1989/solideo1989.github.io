@@ -1,0 +1,38 @@
+---
+title: Wystawa zdjęć z wyjazdu majowego Soli Deo na Litwę
+date: 2007-06-06
+redirect_from: 
+  - 2007/2007.06.06-wystawa-zdjec-z-wyjazdu-majowego-soli-deo-na-litwe
+  - wystawa-zdjec-z-wyjazdu-majowego-soli-deo-na-litwe
+
+published: true
+---
+
+
+
+# Wystawa zdjęć z wyjazdu majowego Soli Deo na Litwę
+
+<time>5 - 30 czerwca</time>
+
+5 - 30 czerwca | 
+Zapraszamy do obejrzenia wystawy zdjęć z wyjazdu na Litwę zorganizowanego przez Soli Deo podczas długiego weekendu majowego. 
+Zdjęcia można oglądać od 5 do 30 czerwca. 
+Miejsce : UKSW ul. Dewajtis 5 Obok auli im. Jana Pawła II wstęp wolny :) 
+
+Pozdrawiamy i zapraszamy Justyna, Karolina, Agata, Piotrek oraz wszyscy autorzy zdjęć 
+
+<!--~-|**|PrettyHtmlStart|**|-~-->
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 5 - 30 czerwca | 
+
+
+Zapraszamy do obejrzenia wystawy zdjęć z wyjazdu na Litwę zorganizowanego przez Soli Deo podczas długiego weekendu majowego. 
+Zdjęcia można oglądać od 5 do 30 czerwca. 
+Miejsce : UKSW ul. Dewajtis 5 Obok auli im. Jana Pawła II wstęp wolny :) 
+
+Pozdrawiamy i zapraszamy Justyna, Karolina, Agata, Piotrek oraz wszyscy autorzy zdjęć 
+
+<!--~-|**|PrettyHtmlStart|**|-~-->
+-->
+
+<!--{{json:{"created_date":"2007-06-06 23:22:44","publish_down":"0000-00-00 00:00:00","id":"508"}}}-->

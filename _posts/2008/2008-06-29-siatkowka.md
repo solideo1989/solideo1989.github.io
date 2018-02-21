@@ -1,0 +1,22 @@
+---
+title: Siatkówka
+date: 2008-06-29
+redirect_from: 
+  - 2008/2008.06.29-siatkowka
+  - siatkowka
+
+published: true
+---
+
+
+
+# Siatkówka
+
+<time>całe wakacje</time>
+
+całe wakacje | Przez wakacje 2008 mamy możliwość nieodpłatnego korzystania z sali gimastycznej, tradycyjnie od dawna gramy w siatkówkę :))
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): całe wakacje | Przez wakacje 2008 mamy możliwość nieodpłatnego korzystania z sali gimastycznej, tradycyjnie od dawna gramy w siatkówkę :)) 
+-->
+
+<!--{{json:{"created_date":"2008-06-29 14:07:07","publish_down":"0000-00-00 00:00:00","id":"634"}}}-->

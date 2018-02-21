@@ -1,0 +1,32 @@
+---
+title: Po trudach do celu
+date: 2014-03-09
+redirect_from: 
+  - 2014/2014.03.09-po-trudach-do-celu
+  - po-trudach-do-celu
+
+published: true
+---
+
+
+![/assets/posts/2014/2014-03-09-po-trudach-do-celu/po_trudach_do_celu01.jpg](/assets/posts/2014/2014-03-09-po-trudach-do-celu/po_trudach_do_celu01.jpg)
+
+# Po trudach do celu
+
+<time>2014-03-09 12:47:48</time>
+
+
+
+Zapraszamy na **nietypowe rekolekcje** - "Po trudach do celu".
+
+
+Wraz z naszym przewodnikiem **o. Norbertem Kuczko OP** postanowiliśmy przebyć duchowy szlak naszego życia. Nasza droga składać się będzie z sześciu punktów postojowych (odcinków), podczas których usłyszymy słowo od ojca na antenie Akademickiego Radia Kampus 97,1FM (lub w internecie www.radiokampus.waw.pl) w 6 niedziel Wielkiego Postu o godz. 9:50 w ramach audycji **[REFLEKtor](https://www.facebook.com/reflektor971).**
+
+
+**W każdym punkcie będziemy zostawiać nagranie** dla tych, którzy pójdą swoim wolniejszym tempem. Najświeższe – z dzisiejszego odcinka jest już dostępne w [MULTIMEDIACH](http://www.solideo.pl/multimedia/audio).
+
+
+Prosimy o trzymanie się tylko wyznaczonego szlaku!
+
+
+<!--{{json:{"created_date":"2014-03-09 12:47:48","publish_down":"0000-00-00 00:00:00","id":"5367"}}}-->

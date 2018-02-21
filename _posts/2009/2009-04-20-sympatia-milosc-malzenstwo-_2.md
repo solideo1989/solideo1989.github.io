@@ -1,0 +1,28 @@
+---
+title: Sympatia Miłość Małżeństwo
+date: 2009-04-20
+redirect_from: 
+  - 2009/2009.04.20-sympatia-milosc-malzenstwo-_2
+  - sympatia-milosc-malzenstwo-46
+
+published: true
+---
+
+
+
+# Sympatia Miłość Małżeństwo
+
+<time>22-29 kwietnia, 2009</time>
+
+22-29 kwietnia, 2009 | 
+Zapraszamy na spotkania w ramach bloku SMM:
+
+
+
+**22 **i **23 kwietnia - SGH
+29 kwietnia - SGGW**.
+
+Chcesz poznać plan? Kliknij w Więcej
+
+
+<!--{{json:{"created_date":"2009-04-20 16:52:40","publish_down":"0000-00-00 00:00:00","id":"749"}}}-->

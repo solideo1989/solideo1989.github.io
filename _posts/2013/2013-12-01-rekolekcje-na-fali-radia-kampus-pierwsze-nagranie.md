@@ -1,0 +1,26 @@
+---
+title: Rekolekcje NA FALI... Radia Kampus - pierwsze nagranie
+date: 2013-12-01
+redirect_from: 
+  - 2013/2013.12.01-rekolekcje-na-fali-radia-kampus-pierwsze-nagranie
+  - rekolekcje-na-fali-radia-kampus-pierwsze-nagranie
+
+published: true
+---
+
+
+![/assets/posts/2013/2013-12-01-rekolekcje-na-fali-radia-kampus-pierwsze-nagranie/rekol_na_fali01.jpg](/assets/posts/2013/2013-12-01-rekolekcje-na-fali-radia-kampus-pierwsze-nagranie/rekol_na_fali01.jpg)
+
+# Rekolekcje NA FALI... Radia Kampus - pierwsze nagranie
+
+<time>2013-12-01 07:47:02</time>
+
+
+
+Tak jak obiecaliśmy, w dziale multimedia czeka na Was **pierwsza część "Rekolekcji NA FALI... Radia Kampus! - Każdy z nas ma swój Adwent"**, które głosi dla nas **o. Michał Adamski** w audycji REFLEKtor.
+
+
+Zachęcamy do wysłuchania - to tylko 5 min. :-)
+
+
+<!--{{json:{"created_date":"2013-12-01 07:47:02","publish_down":"0000-00-00 00:00:00","id":"5342"}}}-->

@@ -1,0 +1,24 @@
+---
+title: Komisja Rewizyjna - kontakt
+date: 2011-02-14
+redirect_from: 
+  - 2011/2011.02.14-komisja-rewizyjna-kontakt
+
+published: true
+---
+
+
+
+# Komisja Rewizyjna - kontakt
+
+<time>2011-02-14 21:15:36</time>
+
+
+PRZEWODNICZĄCY
+
+**Karolina Margas**
+
+************sd.rewizyjna@gmail.com****** **
+
+
+<!--{{json:{"created_date":"2011-02-14 21:15:36","publish_down":"0000-00-00 00:00:00","id":"95"}}}-->

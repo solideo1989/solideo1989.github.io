@@ -1,0 +1,30 @@
+---
+title: Obóz Zerowy Murzasichle (APS, PW, WAT, WUM)
+date: 2009-07-09
+redirect_from: 
+  - 2009/2009.07.09-oboz-zerowy-murzasichle-(aps-pw-wat-wum)
+  - oboz-zerowy-murzasichle-aps-pw-wat-wum
+
+published: true
+---
+
+
+
+# Obóz Zerowy Murzasichle (APS, PW, WAT, WUM)
+
+<time>21-31 sierpnia 2009</time>
+
+21-31 sierpnia 2009 | 
+Zapraszamy studentów zerowych
+i tych starszych na dobrą zabawę i górskie wyprawy.
+*W programie:* górskie wędrówki, zwiedzanie okolicznych ciekawostek, modlitwa, zabawy&nbsp;i inne zajęcia, jakie tylko dusza zapragnie. 
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 21-31 sierpnia 2009 | 
+Zapraszamy studentów zerowych
+i tych starszych na dobrą zabawę i górskie wyprawy.
+*W programie:* górskie wędrówki, zwiedzanie okolicznych ciekawostek, modlitwa, zabawy&nbsp;i inne zajęcia, jakie tylko dusza zapragnie. 
+
+-->
+
+<!--{{json:{"created_date":"2009-07-09 15:32:02","publish_down":"0000-00-00 00:00:00","id":"774"}}}-->

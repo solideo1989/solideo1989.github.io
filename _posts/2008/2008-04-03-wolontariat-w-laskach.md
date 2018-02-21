@@ -1,0 +1,25 @@
+---
+title: Wolontariat w Laskach
+date: 2008-04-03
+redirect_from: 
+  - 2008/2008.04.03-wolontariat-w-laskach
+  - wolontariat-w-laskach
+
+published: true
+---
+
+
+
+# Wolontariat w Laskach
+
+<time>zawsze</time>
+
+zawsze | Jesli chcesz pomoc niewidomym dzieciom z Lasek, ale nie wiesz jeszcze co moglbys&nbsp; zrobic, koniecznie napisz do nas: laski_wolontariat@op.pl Pomozemy Ci poczuc sie potrzebnym.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): zawsze | Jesli chcesz pomoc niewidomym dzieciom z Lasek, ale nie wiesz jeszcze co moglbys&nbsp; zrobic, koniecznie napisz do nas: laski_wolontariat@op.pl Pomozemy Ci poczuc sie potrzebnym.
+
+
+-->
+
+<!--{{json:{"created_date":"2008-04-03 19:06:01","publish_down":"0000-00-00 00:00:00","id":"602"}}}-->

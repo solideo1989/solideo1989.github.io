@@ -1,0 +1,37 @@
+---
+title: Sekcja Formacyjna - kontakt
+date: 2010-01-20
+redirect_from: 
+  - 2010/2010.01.20-sekcja-formacyjna-kontakt
+
+published: true
+---
+
+
+
+# Sekcja Formacyjna - kontakt
+
+<time>2010-01-20 17:00:45</time>
+
+
+**sf.solideo@gmail.com**
+
+
+ 
+
+
+SZEF: Karolina Boruc
+
+
+
+tel. **513-202-881**
+
+
+**karolina.boruc.sd@gmail.com&nbsp;**
+
+
+ 
+
+
+
+<!--{{json:{"created_date":"2010-01-20 17:00:45","publish_down":"0000-00-00 00:00:00","id":"65"}}}-->

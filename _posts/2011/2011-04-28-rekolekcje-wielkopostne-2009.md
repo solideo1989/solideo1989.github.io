@@ -1,0 +1,26 @@
+---
+title: Rekolekcje wielkopostne 2009
+date: 2011-04-28
+redirect_from: 
+  - 2011/2011.04.28-rekolekcje-wielkopostne-2009
+
+published: true
+---
+
+
+
+# Rekolekcje wielkopostne 2009
+
+<time>2011-04-28 09:28:33</time>
+
+
+Rekolekcje wielkopostne prowadzone przez jezuitę **o. Tomasza Kota**:
+
+
+ 
+
+
+{music}mp3/rekolekcje_wielkopostne_2009{/music}
+
+
+<!--{{json:{"created_date":"2011-04-28 09:28:33","publish_down":"0000-00-00 00:00:00","id":"136"}}}-->

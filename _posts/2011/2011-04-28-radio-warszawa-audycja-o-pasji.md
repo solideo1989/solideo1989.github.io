@@ -1,0 +1,26 @@
+---
+title: Radio Warszawa - audycja o pasji
+date: 2011-04-28
+redirect_from: 
+  - 2011/2011.04.28-radio-warszawa-audycja-o-pasji
+
+published: true
+---
+
+
+
+# Radio Warszawa - audycja o pasji
+
+<time>2011-04-28 09:34:11</time>
+
+
+Członek ASK Soli Deo Justyna Adamczyk (SGH) w audycji "Przepis na życie" dotyczącej **pasji**, Radio Warszawa, marzec 2010 r.:
+
+
+ 
+
+
+{music}mp3/o_pasji{/music}
+
+
+<!--{{json:{"created_date":"2011-04-28 09:34:11","publish_down":"0000-00-00 00:00:00","id":"143"}}}-->

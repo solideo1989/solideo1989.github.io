@@ -1,0 +1,30 @@
+---
+title: Akademicka Droga Krzyżowa ulicami miasta
+date: 2008-03-09
+redirect_from: 
+  - 2008/2008.03.09-akademicka-droga-krzyzowa-ulicami-miasta
+  - akademicka-droga-krzyzowa-ulicami-miasta
+
+published: true
+---
+
+
+
+# Akademicka Droga Krzyżowa ulicami miasta
+
+<time>piątek, 14 marca 2008, [red]godz. 19:00[/red]</time>
+
+piątek, 14 marca 2008, [red]godz. 19:00[/red] | 
+Droga Krzyżowa wyrusza z kościoła na Placu Zbawiciela.
+Przyjdź i idź z nami za Jezusem! 
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): piątek, 14 marca 2008, [red]godz. 19:00[/red] | 
+Droga Krzyżowa wyrusza z kościoła na Placu Zbawiciela.
+Przyjdź i idź z nami za Jezusem! 
+
+
+-->
+
+<!--{{json:{"created_date":"2008-03-09 10:36:35","publish_down":"0000-00-00 00:00:00","id":"583"}}}-->

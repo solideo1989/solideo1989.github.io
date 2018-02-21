@@ -1,0 +1,30 @@
+---
+title: Majówka w Bieszczadach
+date: 2007-03-22
+redirect_from: 
+  - majowka-w-bieszczadach
+  - 2007/2007.03.22-majowka-w-bieszczadach
+
+published: true
+---
+
+
+
+# Majówka w Bieszczadach
+
+<time>28 kwietnia -1 maja</time>
+
+28 kwietnia -1 maja | UWAGA
+Zbiórka w piątek 27.04 o 20.45 na DWORCU ZACHODNIM, przy kasach
+Jesteśmy z powrotem w Warszawie w środę 2 maja o 6.45
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 28 kwietnia -1 maja | UWAGA
+Zbiórka w piątek 27.04 o 20.45 na DWORCU ZACHODNIM, przy kasach
+Jesteśmy z powrotem w Warszawie w środę 2 maja o 6.45
+
+
+-->
+
+<!--{{json:{"created_date":"2007-03-22 00:12:40","publish_down":"0000-00-00 00:00:00","id":"474"}}}-->

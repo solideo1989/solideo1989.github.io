@@ -1,0 +1,26 @@
+---
+title: Szczęśliwa miłość
+date: 2011-04-28
+redirect_from: 
+  - 2011/2011.04.28-szczesliwa-milosc
+
+published: true
+---
+
+
+
+# Szczęśliwa miłość
+
+<time>2011-04-28 09:27:26</time>
+
+
+Konferencja "**Szczęśliwa miłość - seks bez kompromisów**", wygłoszona przez Mariolę i Piotra Wołochowiczów na SGGW, 5 grudnia 2008 r. :
+
+
+ 
+
+
+{music}mp3/szczesliwa_milosc{/music}
+
+
+<!--{{json:{"created_date":"2011-04-28 09:27:26","publish_down":"0000-00-00 00:00:00","id":"135"}}}-->

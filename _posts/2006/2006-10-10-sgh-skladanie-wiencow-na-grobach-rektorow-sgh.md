@@ -1,0 +1,22 @@
+---
+title: [SGH] Składanie wieńców na grobach rektorów SGH
+date: 2006-10-10
+redirect_from: 
+  - sgh-skladanie-wiencow-na-grobach-rektorow-sgh
+  - 2006/2006.10.10-(sgh)-skladanie-wiencow-na-grobach-rektorow-sgh
+
+published: true
+---
+
+
+
+# [SGH] Składanie wieńców na grobach rektorów SGH
+
+<time>13 października 2006</time>
+
+13 października 2006 | 13 października, w ramach obchodów stulecia SGH, ASK Soli Deo będzie uczestniczyć w składaniu wieńców na grobach zmarłych rektorów SGH. Uczestniczyć może każdy (nie tylko "sgh-owcy"), zgłoszenia proszę kierować do Jakuba Karasińśkiego - [mail%n%jk31475@sgh.waw.pl].
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 13 października 2006 | 13 października, w ramach obchodów stulecia SGH, ASK Soli Deo będzie uczestniczyć w składaniu wieńców na grobach zmarłych rektorów SGH. Uczestniczyć może każdy (nie tylko "sgh-owcy"), zgłoszenia proszę kierować do Jakuba Karasińśkiego - [mail%n%jk31475@sgh.waw.pl].
+-->
+
+<!--{{json:{"created_date":"2006-10-10 17:38:37","publish_down":"0000-00-00 00:00:00","id":"389"}}}-->

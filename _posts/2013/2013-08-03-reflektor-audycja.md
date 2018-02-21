@@ -1,0 +1,65 @@
+---
+title: REFLEKtor - audycja
+date: 2013-08-03
+redirect_from: 
+  - 2013/2013.08.03-reflektor-audycja
+  - reflektor-audycja
+
+published: true
+---
+
+
+![/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor07.jpg](/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor07.jpg)
+
+# REFLEKtor - audycja
+
+<time>2013-08-03 15:30:12</time>
+
+
+# REFLEKtor - audycja
+
+
+
+ "*Dzięki Bogu wszyscy wciąż dają radę,*
+*  Dzięki Bogu miłość wciąż niszczy zdradę*
+*  Dzięki Bogu dobro pokonuje zło*
+*  Dzięki Bogu, że jest zawsze obok ktoś"*
+*  [Ras Luta - "Dzięki Bogu"]* 
+
+Zupełnie nowa audycja na antenie Akademickiego Radia Kampus. Nadajemy dla was w każdą niedzielę między 9:00 a 10:00! 
+
+
+ Bóg, miłość, wierność, uczciwość, uśmiech - w tych słowach można najkrócej opisać wartości, którymi kierujemy się w audycji. Kościół niekoniecznie musi się kojarzyć z pieniędzmi i moherami. Media kreują taką rzeczywistość ale ona wcale nie musi być prawdziwa!
+
+Warto rozpocząć niedzielę z nami! Mimo wczesnej pory zapraszamy do włączenia Radia Kampus o 8 rano i wsłuchania się w to co ważne dla każdego chrześcijanina. Dobrze jest rozpocząć ten najświętszy dzień tygodnia z uśmiechem. 
+,
+ To jeszcze najważniejsze informacje:
+**CO?**: "REFLEKtor" - W BLASKU WIARY!
+**GDZIE?**: Akademickie Radio Kampus (Warszawa i okolice 97,1FM, cały świat on-line www.radiokampus.waw.pl)
+**KIEDY?**: w każdą niedzielę od godz. 9:00 do godz. 10:00!
+
+![/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor02.jpg](/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor02.jpg)
+![/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor04.jpg](/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor04.jpg)
+![/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor05.jpg](/assets/posts/2013/2013-08-03-reflektor-audycja/reflektor05.jpg)
+
+Zapraszamy w imieniu wszystkich osób, które od wielu miesięcy ciężko pracowały nad tym by audycja ukazała się na antenie i spełniła wasze oczekiwania. Liczymy, że będziecie z nami jak najczęściej.
+
+PS Dla wracających o tej porze z imprez postaramy się o jakieś podcasty :)
+ SKŁAD REDAKCJI "REFLEKtora":
+Marta Jasińska, Ania Cyrych, Ola Kołakowska, Ewa Stempniowska, Tomek Matusiak, Jurek Chodorek, Paweł Czyżniewski
+Koordynatorzy projektu:  Ola Zapałowska)
+ DO USŁYSZENIA!
+
+***
+
+
+ 
+
+
+PS2 Nazwa audycji pochodzi od spotkań formacyjno-integracyjnych Soli Deo, które odbywają się we wtorki. Audycja poczatkowo też miała być we wtorki stąd ta nazwa:-)
+
+
+ 
+
+
+<!--{{json:{"created_date":"2013-08-03 15:30:12","publish_down":"0000-00-00 00:00:00","id":"5268"}}}-->

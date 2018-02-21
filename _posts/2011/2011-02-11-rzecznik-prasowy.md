@@ -1,0 +1,33 @@
+---
+title: Rzecznik prasowy
+date: 2011-02-11
+redirect_from: 
+  - 2011/2011.02.11-rzecznik-prasowy
+
+published: true
+---
+
+
+
+# Rzecznik prasowy
+
+<time>2011-02-11 23:49:27</time>
+
+
+Ewa Wiśniewska
+
+
+tel. **509-359-686**
+
+
+**pr.solideo@gmail.com**
+
+
+ 
+
+
+**
+**
+
+
+<!--{{json:{"created_date":"2011-02-11 23:49:27","publish_down":"0000-00-00 00:00:00","id":"87"}}}-->

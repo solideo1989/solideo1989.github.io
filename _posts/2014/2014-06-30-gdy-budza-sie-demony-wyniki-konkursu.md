@@ -1,0 +1,29 @@
+---
+title: Gdy budzą się demony - wyniki konkursu
+date: 2014-06-30
+redirect_from: 
+  - 2014/2014.06.30-gdy-budza-sie-demony-wyniki-konkursu
+  - gdy-budza-sie-demony-wyniki-konkursu
+
+published: true
+---
+
+
+
+# Gdy budzą się demony - wyniki konkursu
+
+<time>2014-06-30 19:41:23</time>
+
+
+Bilety do Kina Luna wygrali: Ewa, Monika, Dorota.
+ Do Kina Praha: Łukasz, Barbara, Kinga.
+ Do Kina Wisła: Krzysztof, Igor, Karolina.
+
+
+Gratulujemy!
+
+
+Cieszymy się, że tak wiele osób wzięło udział w konkursie:-)
+
+
+<!--{{json:{"created_date":"2014-06-30 19:41:23","publish_down":"0000-00-00 00:00:00","id":"5399"}}}-->

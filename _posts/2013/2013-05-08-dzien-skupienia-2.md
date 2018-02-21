@@ -1,0 +1,34 @@
+---
+title: Dzień skupienia 2
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-dzien-skupienia-2
+
+published: true
+---
+
+
+
+# Dzień skupienia 2
+
+<time>27 lutego godz. 10</time>
+
+27 lutego godz. 10 | 
+**Wielkopostny Dzień Skupienia** dla studentów i młodych, którzy już pracują. 
+
+**27 lutego (niedziela) godz.&nbsp;10.**
+
+**par. św. Jakuba, ul. Mehoffera 4, Warszawa-Tarchomin **
+
+Czy asceza to mieszkanie na słupie i noszenie włosienicy?
+Czy odmawianie sobie jedzenia albo przyjemności może rzeczywiście pozytywnie na mnie wpłynąć?
+Jak dawać jałmużnę, skoro i tak ciągle brakuje mi pieniędzy?
+
+Zastanawiacie się, co zrobić, żeby dobrze przeżyć Wielki Post?
+Nie macie czasu na parafialne rekolekcje w środku tygodnia?
+Chcecie się na chwilę zatrzymać i trochę wyciszyć?
+
+Więcej informacji: poniedzialek.tarchomin@gmail.com
+
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"874"}}}-->

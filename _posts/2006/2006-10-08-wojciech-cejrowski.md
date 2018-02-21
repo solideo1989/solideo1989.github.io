@@ -1,0 +1,22 @@
+---
+title: Wojciech Cejrowski
+date: 2006-10-08
+redirect_from: 
+  - wojciech-cejrowski
+  - 2006/2006.10.08-wojciech-cejrowski
+
+published: true
+---
+
+
+
+# Wojciech Cejrowski
+
+<time>17 październik 2006  godz. 18:00</time>
+
+17 październik 2006  godz. 18:00 | Chcesz dowiedzieć sie czegoś więcej o Ameryce Południowej?[br]Posłuchać opowieści o Dolinie Amazonki i Indianach?Więc nie zastanawiaj sie dłużej tylko przyjdz na spotkanie ze wspaniałym podróżnikiem Wojciechem Cejrowskim. WSTĘP ZA DARMO[br][br]17 października godz. 18:00 sala Brudzińskiego w Pałacu Kazimierzowskim na Krakowskim Przedmieściu (za starym BUW).
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 17 październik 2006  godz. 18:00 | Chcesz dowiedzieć sie czegoś więcej o Ameryce Południowej?[br]Posłuchać opowieści o Dolinie Amazonki i Indianach?Więc nie zastanawiaj sie dłużej tylko przyjdz na spotkanie ze wspaniałym podróżnikiem Wojciechem Cejrowskim. WSTĘP ZA DARMO[br][br]17 października godz. 18:00 sala Brudzińskiego w Pałacu Kazimierzowskim na Krakowskim Przedmieściu (za starym BUW).
+-->
+
+<!--{{json:{"created_date":"2006-10-08 22:19:45","publish_down":"0000-00-00 00:00:00","id":"384"}}}-->

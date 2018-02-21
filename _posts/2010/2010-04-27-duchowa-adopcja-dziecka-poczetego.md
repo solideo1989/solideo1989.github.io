@@ -1,0 +1,27 @@
+---
+title: Duchowa adopcja dziecka poczętego
+date: 2010-04-27
+redirect_from: 
+  - 2010/2010.04.27-duchowa-adopcja-dziecka-poczetego
+  - duchowa-adopcja-dziecka-poczetego-1
+
+published: true
+---
+
+
+
+# Duchowa adopcja dziecka poczętego
+
+<time>Dziś (data umieszczenia na nowej stronie: 2010-04-27 18:40:35)</time>
+
+Dziś | 
+Modlitwa, która ratuje życie!
+
+Pragnę zaprosić Was do włączenia się w akcję duchowej adopcji. To szczególna forma zawierzenia Bogu anonimowego nienarodzonego dziecka zagrożonego aborcją. Polega na odmawianiu krótkiej modlitwy w intencji nienarodzonego i jego rodziców codziennie przez dziewięć miesięcy. W ten sposób i Ty możesz uratować czyjeś życie i dać wyraz nadziei, że śmierć nigdy nie ma ostatniego słowa. 
+Zastanawiasz się czy warto? Chcesz wiedzieć więcej?
+
+Napisz na adres duchowa.adopcja@solideo.pl
+
+
+
+<!--{{json:{"created_date":"2010-04-27 18:40:35","publish_down":"0000-00-00 00:00:00","id":"824"}}}-->

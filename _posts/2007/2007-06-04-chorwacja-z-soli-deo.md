@@ -1,0 +1,44 @@
+---
+title: Chorwacja z Soli Deo
+date: 2007-06-04
+redirect_from: 
+  - chorwacja-z-soli-deo
+  - 2007/2007.06.04-chorwacja-z-soli-deo
+
+published: true
+---
+
+
+
+# Chorwacja z Soli Deo
+
+<time>9-20 lipca</time>
+
+9-20 lipca | 
+Gorąco zapraszamy na wakacyjny wyjazd do Chorwacji z Soli Deo 
+
+**9-20 lipca, miejscowość Klek** 
+
+Zapewniamy ciepłe morze, piękne słoneczko, świetne towarzystwo i niezwykle ciekawe wycieczki (Medjugorje - jedno z najbardziej znanych i najczęściej odwiedzanych sanktuariów w świecie katolickim, miejsce objawień Matki Boskiej; Dubrovnik - niezwykle malownicze, pełne zabytków wpisanych na listę UNESCO miasteczko; jeziora Plitwickie - przepiękne krasowe jeziora, o różnych kolorach , połączone wodospadami). 
+
+**Cena - 790 zł obejmuje dojazd, zakwaterowanie, ubezpieczenie i wspomniane wycieczki! **
+
+**Zapisy i informacje u Romka - 668184592, ****[mail%n%rsp22@poczta.onet.pl]****&nbsp;i Zbyszka - 504754742, [mail%n%****prezes@solideo.pl]**
+**
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 9-20 lipca | 
+Gorąco zapraszamy na wakacyjny wyjazd do Chorwacji z Soli Deo 
+
+**9-20 lipca, miejscowość Klek** 
+
+Zapewniamy ciepłe morze, piękne słoneczko, świetne towarzystwo i niezwykle ciekawe wycieczki (Medjugorje - jedno z najbardziej znanych i najczęściej odwiedzanych sanktuariów w świecie katolickim, miejsce objawień Matki Boskiej; Dubrovnik - niezwykle malownicze, pełne zabytków wpisanych na listę UNESCO miasteczko; jeziora Plitwickie - przepiękne krasowe jeziora, o różnych kolorach , połączone wodospadami). 
+
+**Cena - 790 zł obejmuje dojazd, zakwaterowanie, ubezpieczenie i wspomniane wycieczki! **
+
+
+
+**Zapisy i informacje u Romka - 668184592, ****[mail%n%rsp22@poczta.onet.pl]****&nbsp;i Zbyszka - 504754742, [mail%n%****prezes@solideo.pl]**
+**
+-->
+
+<!--{{json:{"created_date":"2007-06-04 14:07:17","publish_down":"0000-00-00 00:00:00","id":"506"}}}-->

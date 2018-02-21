@@ -1,0 +1,22 @@
+---
+title: Nowe Edycje Warsztatów Bębniarskich i Tańca Chwały
+date: 2009-01-16
+redirect_from: 
+  - 2009/2009.01.16-nowe-edycje-warsztatow-bebniarskich-i-tanca-chwaly
+  - nowe-edycje-warsztatow-bebniarskich-i-tanca-chwaly
+
+published: true
+---
+
+
+
+# Nowe Edycje Warsztatów Bębniarskich i Tańca Chwały
+
+<time>luty-czerwiec</time>
+
+luty-czerwiec | Zapraszamy na nowe edycje warsztatów bębniarskich i tańca chwały. W te ferie i&nbsp;w nadchodzącym semestrze. Zapewniamy świetną zabawę.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): luty-czerwiec | Zapraszamy na nowe edycje warsztatów bębniarskich i tańca chwały. W te ferie i&nbsp;w nadchodzącym semestrze. Zapewniamy świetną zabawę.
+-->
+
+<!--{{json:{"created_date":"2009-01-16 13:27:11","publish_down":"0000-00-00 00:00:00","id":"696"}}}-->

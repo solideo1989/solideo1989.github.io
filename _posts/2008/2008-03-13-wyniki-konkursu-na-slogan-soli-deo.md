@@ -1,0 +1,38 @@
+---
+title: Wyniki konkursu na slogan Soli Deo!
+date: 2008-03-13
+redirect_from: 
+  - wyniki-konkursu-na-slogan-soli-deo
+  - 2008/2008.03.13-wyniki-konkursu-na-slogan-soli-deo
+
+published: true
+---
+
+
+
+# Wyniki konkursu na slogan Soli Deo!
+
+<time></time>
+
+| 
+Oto zwycięzkie hasła w &nbsp;konkursie na slogan Soli Deo:
+SOLI DEO - SOLI ZIEMIĘ!
+i
+SOLI DEO-PIĘKNE DZIEłO, PIĘKNY CZAS, WIELE
+SPOTKAŃ, WIELE NAS:)
+Gratulujemy Zwycięzcom !!!
+&nbsp;
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013):  | 
+Oto zwycięzkie hasła w &nbsp;konkursie na slogan Soli Deo:
+SOLI DEO - SOLI ZIEMIĘ!
+i
+SOLI DEO-PIĘKNE DZIEłO, PIĘKNY CZAS, WIELE
+SPOTKAŃ, WIELE NAS:)
+Gratulujemy Zwycięzcom !!!
+&nbsp;
+
+-->
+
+<!--{{json:{"created_date":"2008-03-13 22:27:49","publish_down":"0000-00-00 00:00:00","id":"593"}}}-->

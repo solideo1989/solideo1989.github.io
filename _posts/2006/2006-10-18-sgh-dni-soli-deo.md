@@ -1,0 +1,22 @@
+---
+title: [SGH] Dni Soli Deo
+date: 2006-10-18
+redirect_from: 
+  - sgh-dni-soli-deo
+  - 2006/2006.10.18-(sgh)-dni-soli-deo
+
+published: true
+---
+
+
+
+# [SGH] Dni Soli Deo
+
+<time>18-20 października 2006</time>
+
+18-20 października 2006 | W dniach 18-20 października odbędą sią na SGH Dni Soli Deo. Prezentacje o Soli Deo odbędą się w środę o 19.00 w sali 151 G oraz w piątek o 15.20 w[br]sali 105 G. Serdecznie zapraszamy.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 18-20 października 2006 | W dniach 18-20 października odbędą sią na SGH Dni Soli Deo. Prezentacje o Soli Deo odbędą się w środę o 19.00 w sali 151 G oraz w piątek o 15.20 w[br]sali 105 G. Serdecznie zapraszamy.
+-->
+
+<!--{{json:{"created_date":"2006-10-18 14:07:06","publish_down":"0000-00-00 00:00:00","id":"397"}}}-->

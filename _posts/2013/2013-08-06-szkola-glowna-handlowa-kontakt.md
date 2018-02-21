@@ -1,0 +1,79 @@
+---
+title: Szkoła Główna Handlowa - kontakt
+date: 2013-08-06
+redirect_from: 
+  - 2013/2013.08.06-szkola-glowna-handlowa-kontakt
+  - szkola-glowna-handlowa-kontakt
+
+published: true
+---
+
+
+
+# Szkoła Główna Handlowa - kontakt
+
+<time>2013-08-06 16:31:17</time>
+
+
+#  Szkoła Główna Handlowa - kontakt 
+
+ 
+
+
+ 
+
+
+**PREZES:**
+
+
+**Ilona Pietras**
+ilonkapietras@gmail.com
+
+
+ 
+
+
+**HR:**
+
+
+**Alek Kokot**
+alek.kokot@gmail.com
+
+
+ 
+
+
+**PR:**
+
+
+**Kamila Rucińska**
+kamila.rucinska96@gmail.com
+
+
+ 
+
+
+**SEKRETARZ:**
+
+
+**Mateusz Michalczuk**
+m.michalczuk92@gmail.com
+
+
+ 
+
+
+**SKARBNIK:**
+
+
+**Jerzy Litwinow**
+jorgelitv@gmail.com
+
+
+ 
+
+
+ 
+
+
+<!--{{json:{"created_date":"2013-08-06 16:31:17","publish_down":"0000-00-00 00:00:00","id":"5276"}}}-->

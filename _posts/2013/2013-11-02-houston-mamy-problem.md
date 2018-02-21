@@ -1,0 +1,25 @@
+---
+title: Houston, mamy problem...
+date: 2013-11-02
+redirect_from: 
+  - houston-mamy-problem
+  - 2013/2013.11.02-houston-mamy-problem
+
+published: true
+---
+
+
+
+# Houston, mamy problem...
+
+<time>2013-11-02 18:07:30</time>
+
+
+Mało pozytywna wiadomość, ale czasami i taką trzeba podać...
+ 
+ Od jakiegoś czasu mamy poważny problem z newsletterem - nie dochodzi on do osób mających pocztę Gmail. Dzieje się tak nie z naszej winy, ale i tak przepraszamy wszystkich za taką sytuację.
+ 
+ Trzymajcie kciuki, aby udało się ten problem w miarę szybko rozwiązać chociaż nie ukrywamy, że proste to nie będzie.
+
+
+<!--{{json:{"created_date":"2013-11-02 18:07:30","publish_down":"0000-00-00 00:00:00","id":"5323"}}}-->

@@ -1,0 +1,56 @@
+---
+title: Całun Turyński - fakty i mity
+date: 2007-04-13
+redirect_from: 
+  - 2007/2007.04.13-calun-turynski-fakty-i-mity
+  - calun-turynski-fakty-i-mity
+
+published: true
+---
+
+
+
+# Całun Turyński - fakty i mity
+
+<time>26 kwietnia 2007, godz. 18:00</time>
+
+26 kwietnia 2007, godz. 18:00 | 
+Serdecznie zapraszamy na wykład pt. 
+
+"Całun Turyński- fakty i mity" 
+Odbędzie się on 26.04.2007 o godz. 18.00
+w kościele NSW Zbawiciela 
+w sali przy kancelarii
+
+
+Wykład prowadzony przez
+dr hab. Michała Gintera paleontologa UW
+z pokazem slajdów o historii i badaniu autentyczności Całunu Turyńskiego.
+
+
+Kontakt: Agnieszka Jabłczyńska
+prezes_uksw@solideo.pl,&nbsp;600798079
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 26 kwietnia 2007, godz. 18:00 | 
+Serdecznie zapraszamy na wykład pt. 
+
+"Całun Turyński- fakty i mity" 
+Odbędzie się on 26.04.2007 o godz. 18.00
+w kościele NSW Zbawiciela 
+w sali przy kancelarii
+
+
+Wykład prowadzony przez
+dr hab. Michała Gintera paleontologa UW
+z pokazem slajdów o historii i badaniu autentyczności Całunu Turyńskiego.
+
+
+Kontakt: Agnieszka Jabłczyńska
+prezes_uksw@solideo.pl,&nbsp;600798079
+
+
+-->
+
+<!--{{json:{"created_date":"2007-04-13 19:48:14","publish_down":"0000-00-00 00:00:00","id":"487"}}}-->

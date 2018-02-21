@@ -1,0 +1,78 @@
+---
+title: solideowy weekend październikowy
+date: 2009-09-23
+redirect_from: 
+  - 2009/2009.09.23-solideowy-weekend-pazdziernikowy
+  - solideowy-weekend-pazdziernikowy
+
+published: true
+---
+
+
+
+# solideowy weekend październikowy
+
+<time>9-11 października 2009</time>
+
+9-11 października 2009 | 
+Na weekend zapraszamy wszystkich Członków
+
+
+
+oraz
+
+
+
+Sympatyków chcących włączyć się
+
+w nasze wspólne działanie.
+
+
+
+W programie będzie coś dla ducha i nie tylko.
+
+
+
+Więcej szczegółów już wkrótce ...
+
+Sekcja Formacyjna
+
+sf.solideo@gmail.com
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 9-11 października 2009 | 
+Na weekend zapraszamy wszystkich Członków
+
+
+
+
+
+oraz
+
+
+
+
+
+Sympatyków chcących włączyć się
+
+w nasze wspólne działanie.
+
+
+
+
+
+W programie będzie coś dla ducha i nie tylko.
+
+
+
+
+
+Więcej szczegółów już wkrótce ...
+
+
+
+Sekcja Formacyjna
+
+sf.solideo@gmail.com         
+-->
+
+<!--{{json:{"created_date":"2009-09-23 20:21:35","publish_down":"0000-00-00 00:00:00","id":"777"}}}-->

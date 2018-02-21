@@ -1,0 +1,70 @@
+---
+title: Kobieta + Mężczyzna - czyli: Jak uzdrowić miłość?
+date: 2007-06-13
+redirect_from: 
+  - kobieta-mezczyzna-czyli-jak-uzdrowic-milosc
+  - 2007/2007.06.13-kobieta-mezczyzna-czyli-jak-uzdrowic-milosc
+
+published: true
+---
+
+
+
+# Kobieta + Mężczyzna - czyli: Jak uzdrowić miłość?
+
+<time>14 czerwca 2007 godz. 19:00</time>
+
+14 czerwca 2007 godz. 19:00 | 
+**Gośćmi Akademii będą:**
+<blockquote>
+**-Martin Rovers z Kanady**
+
+
+**-Katarzyna i Paweł Perzowie**
+
+
+**-Zbigniew Moskal**
+</BLOCKQUOTE>
+**14 czerwca (CZWARTEK) 2007 godz. 19:00**
+
+Liceum im. Stefana Batorego AULA
+
+ul. Myśliwiecka 6 (koło rozbrat)
+
+**Wstęp wolny**
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 14 czerwca 2007 godz. 19:00 | 
+**Gośćmi Akademii będą:**
+
+
+<blockquote>
+
+
+**-Martin Rovers z Kanady**
+
+
+**-Katarzyna i Paweł Perzowie**
+
+
+**-Zbigniew Moskal**
+</BLOCKQUOTE>
+
+
+**14 czerwca (CZWARTEK) 2007 godz. 19:00**
+
+
+
+Liceum im. Stefana Batorego AULA
+
+
+
+ul. Myśliwiecka 6 (koło rozbrat)
+
+
+
+**Wstęp wolny**
+
+-->
+
+<!--{{json:{"created_date":"2007-06-13 09:39:53","publish_down":"0000-00-00 00:00:00","id":"511"}}}-->

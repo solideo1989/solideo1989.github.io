@@ -1,0 +1,32 @@
+---
+title: Kobieta-idealna połowa?
+date: 2010-04-23
+redirect_from: 
+  - 2010/2010.04.23-kobieta-idealna-polowa
+  - kobieta-idealna-polowa
+
+published: true
+---
+
+
+
+# Kobieta-idealna połowa?
+
+<time>29 kwietnia godz. 19.30</time>
+
+29 kwietnia godz. 19.30 | 
+"Kobieta-idealna połowa?"- spotkanie z cyklu Duchowość Kobiety i Mężczyzny w czwartek (29 kwietnia) z Magdaleną Laskowską (żona Sylwestra Laskowskiego). Spotkanie rozpocznie się Eucharystią o 19:30 w Kaplicy Akademickiej, a po niej spotkanie w salach DA. 
+DA DĄB, ul. Rakowiecka 61. 
+
+Serdecznie zapraszamy!
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 29 kwietnia godz. 19.30 | 
+"Kobieta-idealna połowa?"- spotkanie z cyklu Duchowość Kobiety i Mężczyzny w czwartek (29 kwietnia) z Magdaleną Laskowską (żona Sylwestra Laskowskiego). Spotkanie rozpocznie się Eucharystią o 19:30 w Kaplicy Akademickiej, a po niej spotkanie w salach DA. 
+DA DĄB, ul. Rakowiecka 61. 
+
+Serdecznie zapraszamy!
+         
+-->
+
+<!--{{json:{"created_date":"2010-04-23 22:17:38","publish_down":"0000-00-00 00:00:00","id":"907"}}}-->

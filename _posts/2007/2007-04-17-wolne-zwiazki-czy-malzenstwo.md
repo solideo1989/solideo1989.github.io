@@ -1,0 +1,22 @@
+---
+title: Wolne związki czy Małżeństwo?
+date: 2007-04-17
+redirect_from: 
+  - 2007/2007.04.17-wolne-zwiazki-czy-malzenstwo
+  - wolne-zwiazki-czy-malzenstwo
+
+published: true
+---
+
+
+
+# Wolne związki czy Małżeństwo?
+
+<time>26 kwietnia</time>
+
+26 kwietnia | "Wolne związki czy Małżeństwo?"- Duszpasterstwo Akademickie DĄB zaprasza na kolejne spotkanie z cyklu Duchowość Mężczyzny i Kobiety. Naszym gościem będzie Pan Wojciech Eichelberger (dyrektor Instytutu Psychoimmunologi, buddysta zen). 26 kwietnia, czwartek, godz.20:00, sale DA (www.dab.jezuici.pl)
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 26 kwietnia | "Wolne związki czy Małżeństwo?"- Duszpasterstwo Akademickie DĄB zaprasza na kolejne spotkanie z cyklu Duchowość Mężczyzny i Kobiety. Naszym gościem będzie Pan Wojciech Eichelberger (dyrektor Instytutu Psychoimmunologi, buddysta zen). 26 kwietnia, czwartek, godz.20:00, sale DA (www.dab.jezuici.pl) 
+-->
+
+<!--{{json:{"created_date":"2007-04-17 12:14:18","publish_down":"0000-00-00 00:00:00","id":"491"}}}-->

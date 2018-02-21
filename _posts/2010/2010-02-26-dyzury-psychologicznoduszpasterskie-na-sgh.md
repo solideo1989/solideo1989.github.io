@@ -1,0 +1,51 @@
+---
+title: Dyżury psychologiczno-duszpasterskie na SGH!
+date: 2010-02-26
+redirect_from: 
+  - dyzury-psychologiczno-duszpasterskie-na-sgh
+  - 2010/2010.02.26-dyzury-psychologiczno-duszpasterskie-na-sgh
+
+published: true
+---
+
+
+
+# Dyżury psychologiczno-duszpasterskie na SGH!
+
+<time></time>
+
+| UWAGA:
+na 
+okres wakacyjny dyżury księdza Michała zostały zawieszone
+
+Potrzebujesz rady i wsparcia?
+Oczekujesz zrozumienia i dyskrecji?
+Szukasz porady duchowej lub psychologicznej?
+
+&nbsp;
+Ksiądz Michał Muszyński, duszpasterz SGH, czeka na Ciebie!
+
+Zapraszamy na Dyżury Psychologiczno-Duszpasterskie w każdy wtorek między godziną 14:15 a 15:45, do sali 117 budynku A.
+
+Obejrzyj koniecznie filmik promocyjny!
+&
+lt;br>
+
+<!--CONTENT FROM OLD SERVER (jos before 2013):  | UWAGA:
+na okres wakacyjny dyżury księdza Michała zostały zawieszone
+
+Potrzebujesz rady i wsparcia?
+Oczekujesz zrozumienia i dyskrecji?
+Szukasz porady duchowej lub psychologicznej?
+
+&nbsp;
+Ksiądz Michał Muszyński, duszpasterz SGH, czeka na Ciebie!
+
+Zapraszamy na Dyżury Psychologiczno-Duszpasterskie w każdy wtorek między godziną 14:15 a 15:45, do sali 117 budynku A.
+
+Obejrzyj koniecznie filmik promocyjny!
+
+                                                                                          
+-->
+
+<!--{{json:{"created_date":"2010-02-26 14:35:47","publish_down":"0000-00-00 00:00:00","id":"879"}}}-->

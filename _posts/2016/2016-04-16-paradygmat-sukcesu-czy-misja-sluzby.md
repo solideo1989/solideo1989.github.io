@@ -1,0 +1,24 @@
+---
+title: Paradygmat sukcesu czy misja służby?
+date: 2016-04-16
+redirect_from: 
+  - paradygmat-sukcesu-czy-misja-sluzby
+  - 2016/2016.04.16-paradygmat-sukcesu-czy-misja-sluzby
+
+published: true
+---
+
+
+
+# Paradygmat sukcesu czy misja służby?
+
+<time>2016-04-16 21:26:43</time>
+
+
+O tym, czym jest sukces oraz czy chrześcijanie powinni angażować się w politykę opowie Piotr Gryza (jeden z założycieli Soli Deo, obecnie podsekretarza Stanu w Ministerstwie Zdrowia). Już we wtorek 19 kwietnia!
+
+
+[https://www.facebook.com/events/223285064703211/](https://www.facebook.com/events/223285064703211/)
+
+
+<!--{{json:{"created_date":"2016-04-16 21:26:43","publish_down":"0000-00-00 00:00:00","id":"5456"}}}-->

@@ -1,0 +1,29 @@
+---
+title: Życzenia Świąteczne!
+date: 2011-12-23
+redirect_from: 
+  - 2011/2011.12.23-zyczenia-swiateczne
+  - zyczenia-swiateczne
+
+published: true
+---
+
+
+![images/stories/poprawione.jpg](images/stories/poprawione.jpg)
+
+# Życzenia Świąteczne!
+
+<time>2011-12-23 08:22:40</time>
+
+
+
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+
+
+
+-->
+
+<!--{{json:{"created_date":"2011-12-23 08:22:40","publish_down":"0000-00-00 00:00:00","id":"1060"}}}-->

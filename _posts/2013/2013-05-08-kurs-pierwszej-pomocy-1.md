@@ -1,0 +1,25 @@
+---
+title: Kurs Pierwszej Pomocy 1
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-kurs-pierwszej-pomocy-1
+
+published: true
+---
+
+
+
+# Kurs Pierwszej Pomocy 1
+
+<time>21-22 marca</time>
+
+21-22 marca | 
+Zapraszamy na profesjonalny kurs pierwszej pomocy. 
+
+21-22 marca, godz 9-15, UKSW. 
+
+Koszt: 20 zł (studenci UKSW), 50 zł (studenci pozostałych uczelni)
+
+Umiejętność udzielenia pomocy może kiedyś komuś uratować życie!
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"726"}}}-->

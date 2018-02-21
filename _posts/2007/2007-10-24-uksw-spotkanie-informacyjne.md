@@ -1,0 +1,24 @@
+---
+title: [UKSW] spotkanie informacyjne
+date: 2007-10-24
+redirect_from: 
+  - 2007/2007.10.24-(uksw)-spotkanie-informacyjne
+  - uksw-spotkanie-informacyjne-2
+
+published: true
+---
+
+
+
+# [UKSW] spotkanie informacyjne
+
+<time>25 października 2007, godz. 18:00</time>
+
+25 października 2007, godz. 18:00 | 
+Zapraszamy na **spotkanie informacyjno - organizacyjne Soli Deo UKSW!**
+Salka za kościołem Zesłania Ducha Świętego
+ul. Broniewskiego 44
+*kontakt:* Agnieszka Jabłczyńska 600-79-80-79, jaagnieszka@o2.pl
+
+
+<!--{{json:{"created_date":"2007-10-24 21:03:46","publish_down":"0000-00-00 00:00:00","id":"531"}}}-->

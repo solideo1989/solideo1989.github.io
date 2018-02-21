@@ -1,0 +1,22 @@
+---
+title: [UW] Rekolekcje Adwentowe
+date: 2005-12-05
+redirect_from: 
+  - 2005/2005.12.05-(uw)-rekolekcje-adwentowe
+  - uw-rekolekcje-adwentowe
+
+published: true
+---
+
+
+
+# [UW] Rekolekcje Adwentowe
+
+<time>14-16 grudnia 2005</time>
+
+14-16 grudnia 2005 | W te dni zapraszamy na godz. 20:15 do Auli B Auditorium Maximum UW przy Krakowskim Przedmieściu, na rekolekcje na temat: [b]"Czekając na współczucie"[/b]. Rekolekcje poprowadzi ks. Krzysztof Grzywocz - ojciec duchowny w Wyższym Seminarium Duchownym w Opolu.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 14-16 grudnia 2005 | W te dni zapraszamy na godz. 20:15 do Auli B Auditorium Maximum UW przy Krakowskim Przedmieściu, na rekolekcje na temat: [b]"Czekając na współczucie"[/b]. Rekolekcje poprowadzi ks. Krzysztof Grzywocz - ojciec duchowny w Wyższym Seminarium Duchownym w Opolu.
+-->
+
+<!--{{json:{"created_date":"2005-12-05 11:34:24","publish_down":"0000-00-00 00:00:00","id":"287"}}}-->

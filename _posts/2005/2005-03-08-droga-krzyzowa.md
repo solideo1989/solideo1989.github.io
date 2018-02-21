@@ -1,0 +1,22 @@
+---
+title: Droga Krzyżowa
+date: 2005-03-08
+redirect_from: 
+  - droga-krzyzowa
+  - 2005/2005.03.08-droga-krzyzowa
+
+published: true
+---
+
+
+
+# Droga Krzyżowa
+
+<time>16 marca 2005, godz. 20:00</time>
+
+16 marca 2005, godz. 20:00 | w "naszym" kościele - Św.Katarzyny na Służewiu odbędzie się wspólna Droga Krzyżowa; organizuje ją Soli Deo KT UW
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 16 marca 2005, godz. 20:00 | w "naszym" kościele - Św.Katarzyny na Służewiu odbędzie się wspólna Droga Krzyżowa; organizuje ją Soli Deo KT UW
+-->
+
+<!--{{json:{"created_date":"2005-03-08 16:01:04","publish_down":"0000-00-00 00:00:00","id":"214"}}}-->

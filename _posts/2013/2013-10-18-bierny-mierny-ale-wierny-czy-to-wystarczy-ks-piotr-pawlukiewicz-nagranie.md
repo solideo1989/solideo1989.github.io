@@ -1,0 +1,49 @@
+---
+title: Bierny, mierny, ale wierny. Czy to wystarczy? - ks. Piotr Pawlukiewicz - nagranie
+date: 2013-10-18
+redirect_from: 
+  - bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie
+  - 2013/2013.10.18-bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie
+  - bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz
+
+published: true
+---
+
+
+![/assets/posts/2013/2013-10-18-bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie/bmw01.jpg](/assets/posts/2013/2013-10-18-bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie/bmw01.jpg)
+
+# Bierny, mierny, ale wierny. Czy to wystarczy? - ks. Piotr Pawlukiewicz - nagranie
+
+<time>2013-10-18 21:39:19</time>
+
+
+ 
+
+
+8 maja 2012 roku, na Warszawskim Uniwersytecie Medycznym, odbyła się konferencja ks. Piotra Pawlukiewicza - "Bierny, mierny, ale wierny - czy to wystarczy?" (czyli słynne BMW:D). Największa aula dawnej Akademi Medycznej oraz prawdopodobnie największa i najnowocześniejsza z wszystkich uniwersyteckich auli w Warszawie pękała w szwach - konferencja zgromadziła ok. 1,5 tys. osób.
+
+
+ 
+
+
+![/assets/posts/2013/2013-10-18-bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie/bmw02.jpg](/assets/posts/2013/2013-10-18-bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie/bmw02.jpg)
+![/assets/posts/2013/2013-10-18-bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie/bmw03.jpg](/assets/posts/2013/2013-10-18-bierny-mierny-ale-wierny-czy-to-wystarczy-ks-piotr-pawlukiewicz-nagranie/bmw03.jpg)
+
+
+ 
+
+
+Poniżej nagranie audio.
+
+
+{music}mp3/pawlukiewicz_mierny_bierny{/music}
+
+
+ 
+
+
+Nagranie video [tutaj](http://www.youtube.com/watch?v=qj0MLobbCjY).
+Fotorelacja [tutaj](https://www.facebook.com/media/set/?set=a.10151055270222023.387854.162729407022&type=3).
+
+
+<!--{{json:{"created_date":"2013-10-18 21:39:19","publish_down":"0000-00-00 00:00:00","id":"5317"}}}-->

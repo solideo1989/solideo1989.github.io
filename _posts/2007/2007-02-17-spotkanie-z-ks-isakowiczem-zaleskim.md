@@ -1,0 +1,34 @@
+---
+title: Spotkanie z ks. Isakowiczem - Zaleskim
+date: 2007-02-17
+redirect_from: 
+  - spotkanie-z-ks-isakowiczem-zaleskim
+  - 2007/2007.02.17-spotkanie-z-ks-isakowiczem-zaleskim
+
+published: true
+---
+
+
+
+# Spotkanie z ks. Isakowiczem - Zaleskim
+
+<time>7 marzec, godz 19.00</time>
+
+7 marzec, godz 19.00 | 
+Zapraszamy na spotkanie z księdzem **Tadeuszem Isakowiczem-Zaleskim** 
+**7 marzec, środa, godz 19.00 , Mała Aula na Politechnice Warszawskiej.** Temat: **" Księża wobec bezpieki"**
+Spotkanie zainguruje cykl "W poszukiwaniu prawdy" poświęcony kościołowi oraz PRL
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 7 marzec, godz 19.00 | 
+Zapraszamy na spotkanie z księdzem **Tadeuszem Isakowiczem-Zaleskim** 
+
+
+**7 marzec, środa, godz 19.00 , Mała Aula na Politechnice Warszawskiej.** Temat: **" Księża wobec bezpieki"**
+
+
+Spotkanie zainguruje cykl "W poszukiwaniu prawdy" poświęcony kościołowi oraz PRL
+
+-->
+
+<!--{{json:{"created_date":"2007-02-17 20:38:51","publish_down":"0000-00-00 00:00:00","id":"453"}}}-->

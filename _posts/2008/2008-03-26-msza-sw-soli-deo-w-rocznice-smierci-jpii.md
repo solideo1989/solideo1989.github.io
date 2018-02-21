@@ -1,0 +1,35 @@
+---
+title: Msza Św Soli Deo w rocznicę śmierci JPII
+date: 2008-03-26
+redirect_from: 
+  - 2008/2008.03.26-msza-sw-soli-deo-w-rocznice-smierci-jpii
+  - msza-sw-soli-deo-w-rocznice-smierci-jpii
+
+published: true
+---
+
+
+
+# Msza Św Soli Deo w rocznicę śmierci JPII
+
+<time>2 kwietnia 2008, godz. 19:30</time>
+
+2 kwietnia 2008, godz. 19:30 | Serdecznie zapraszamy na comiesięczną Mszę Świętą Soli Deo w kościele przy pl. Zbawiciela. Po mszy nastąpi czuwanie w rocznicę Śmierci Jana Pawła II, które zakończy się Apelem Jasnogórskim o 21.37.
+
+Po wszystkim zapraszamy na Doroczne Spotkanie Wielkanocne w dolnym kościele.
+
+Przynieście więc coś do jedzenia lub picia.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 2 kwietnia 2008, godz. 19:30 | Serdecznie zapraszamy na comiesięczną Mszę Świętą Soli Deo w kościele przy pl. Zbawiciela. Po mszy nastąpi czuwanie w rocznicę Śmierci Jana Pawła II, które zakończy się Apelem Jasnogórskim o 21.37.
+
+Po wszystkim zapraszamy na Doroczne Spotkanie Wielkanocne w dolnym kościele.
+
+Przynieście więc coś do jedzenia lub picia.
+
+
+
+         
+-->
+
+<!--{{json:{"created_date":"2008-03-26 16:40:34","publish_down":"0000-00-00 00:00:00","id":"600"}}}-->

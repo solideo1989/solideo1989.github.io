@@ -1,0 +1,28 @@
+---
+title: Narzeczony nie do konca wierzacy
+date: 2007-01-09
+redirect_from: 
+  - narzeczony-nie-do-konca-wierzacy
+  - 2007/2007.01.09-narzeczony-nie-do-konca-wierzacy
+
+published: true
+---
+
+
+
+# Narzeczony nie do konca wierzacy
+
+<time>11 stycznia 2007, godz. 20:00</time>
+
+11 stycznia 2007, godz. 20:00 | 
+11 stycznia (czwartek, godz.20:00) w ramach cyklu spotkan Duchowosc Mezczyzny i Kobiety bedziemy goscic O. Jacka Salij OP a temat spotkania "Narzeczony nie do konca wierzacy". 
+Duszpasterstwo Akademickie DĄB
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 11 stycznia 2007, godz. 20:00 | 
+11 stycznia (czwartek, godz.20:00) w ramach cyklu spotkan Duchowosc Mezczyzny i Kobiety bedziemy goscic O. Jacka Salij OP a temat spotkania "Narzeczony nie do konca wierzacy". 
+Duszpasterstwo Akademickie DĄB
+
+-->
+
+<!--{{json:{"created_date":"2007-01-09 22:03:52","publish_down":"0000-00-00 00:00:00","id":"440"}}}-->

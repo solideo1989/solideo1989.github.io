@@ -1,0 +1,27 @@
+---
+title: Warsztaty na temat emocji
+date: 2016-04-16
+redirect_from: 
+  - 2-uncategorised/5457-warsztaty-na-temat-emocji
+  - 2016/2016.04.16-warsztaty-na-temat-emocji
+  - warsztaty-na-temat-emocji
+
+published: true
+---
+
+
+![/assets/posts/2016/2016-04-16-warsztaty-na-temat-emocji/12400991_10153592349287023_3212691925129074228_n.jpg](/assets/posts/2016/2016-04-16-warsztaty-na-temat-emocji/12400991_10153592349287023_3212691925129074228_n.jpg)
+
+# Warsztaty na temat emocji
+
+<time>2016-04-16 21:33:07</time>
+
+
+
+Już w środę 20 kwietnia Soli Deo w porozumieniu z Fundacją Inigo organizuje warsztaty na temat emocji w miejscu pracy. Liczba miejsc ograniczona, zapraszamy do zapisów (link poniżej)
+
+
+[https://www.facebook.com/events/205873373126699/](https://www.facebook.com/events/205873373126699/)
+
+
+<!--{{json:{"created_date":"2016-04-16 21:33:07","publish_down":"0000-00-00 00:00:00","id":"5457"}}}-->

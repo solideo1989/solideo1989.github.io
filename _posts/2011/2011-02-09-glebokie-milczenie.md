@@ -1,0 +1,21 @@
+---
+title: Głebokie milczenie
+date: 2011-02-09
+redirect_from: 
+  - 2011/2011.02.09-glebokie-milczenie
+
+published: true
+---
+
+
+
+# Głebokie milczenie
+
+<time>2011-02-09 23:26:20</time>
+
+
+Jak wiele mocy ludzkich dojrzewa w głębokim milczeniu!
+
+
+
+<!--{{json:{"created_date":"2011-02-09 23:26:20","publish_down":"0000-00-00 00:00:00","id":"86"}}}-->

@@ -1,0 +1,33 @@
+---
+title: Msza Święta Soli Deo
+date: 2007-05-18
+redirect_from: 
+  - 2007/2007.05.18-msza-swieta-soli-deo
+  - msza-swieta-soli-deo-19
+
+published: true
+---
+
+
+
+# Msza Święta Soli Deo
+
+<time>24 maja</time>
+
+24 maja | 
+**Msza Święta**, czyli Spotkanie, od którego zależy wszystko
+
+tym razem w gronie znajomych z Soli Deo :):)
+
+**24 V , czwartek, godzina 18:30 
+Kościół św. Szczepana, ul. Św. Szczepana 1 (przy Narbutta)**
+
+dojazd : [http://www.jezuici.pl/szczepan/main.html](http://www.jezuici.pl/szczepan/main.html)
+
+Po Mszy świętej pójdziemy na wspólną Agapę :):):) Dlatego : chłopcy&nbsp;przynoszą coś do picia, a dziewczyny do jedzenia! 
+
+
+W szczególności zapraszamy osoby jeszcze nie związane z naszą organizacją!
+
+
+<!--{{json:{"created_date":"2007-05-18 10:08:18","publish_down":"0000-00-00 00:00:00","id":"502"}}}-->

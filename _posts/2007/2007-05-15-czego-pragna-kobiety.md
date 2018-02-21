@@ -1,0 +1,34 @@
+---
+title: Czego pragną kobiety?
+date: 2007-05-15
+redirect_from: 
+  - czego-pragna-kobiety
+  - 2007/2007.05.15-czego-pragna-kobiety
+
+published: true
+---
+
+
+
+# Czego pragną kobiety?
+
+<time>17 maja 2007</time>
+
+17 maja 2007 | 
+Kolejne spotkanie w ramach Mistrowskiej Akademii Miłości p.t. "KOBIETA + MĘŻCZYZNA, czyli czego pragną kobiety?" odbędzie się 17 maja w czwartek o godz. 19.00 w auli Liceum im. Stefana Batorego przy ul. Myśliwiecka 6 (koło Rozbrat)&nbsp; w Warszawie.
+
+Goścmi będą: Agata RUSAK - psycholog i psychoterapeuta, Sylwester LASKOWSKI - muzyk, poeta, naukowiec, mąż i ojciec oraz Bożena i Bogusław BERNARDOWIE - małżonkowie z 25-letnim stażem i z 5 dorastających dzieci. 
+
+Spotkanie prowadzi Mira JANKOWSKA autorka audycji Życie jest piękne w Radiu Józef 96,5 fm
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 17 maja 2007 | 
+Kolejne spotkanie w ramach Mistrowskiej Akademii Miłości p.t. "KOBIETA + MĘŻCZYZNA, czyli czego pragną kobiety?" odbędzie się 17 maja w czwartek o godz. 19.00 w auli Liceum im. Stefana Batorego przy ul. Myśliwiecka 6 (koło Rozbrat)&nbsp; w Warszawie.
+
+Goścmi będą: Agata RUSAK - psycholog i psychoterapeuta, Sylwester LASKOWSKI - muzyk, poeta, naukowiec, mąż i ojciec oraz Bożena i Bogusław BERNARDOWIE - małżonkowie z 25-letnim stażem i z 5 dorastających dzieci. 
+
+Spotkanie prowadzi Mira JANKOWSKA autorka audycji Życie jest piękne w Radiu Józef 96,5 fm
+
+-->
+
+<!--{{json:{"created_date":"2007-05-15 11:18:31","publish_down":"0000-00-00 00:00:00","id":"498"}}}-->

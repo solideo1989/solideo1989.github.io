@@ -1,0 +1,34 @@
+---
+title: Katechumenat
+date: 2010-11-03
+redirect_from: 
+  - katechumenat
+  - 2010/2010.11.03-katechumenat
+
+published: true
+---
+
+
+
+# Katechumenat
+
+<time>Dziś (data umieszczenia na nowej stronie: 2010-11-03 22:20:34)</time>
+
+Dziś | 
+Katechumenat czyli przygotowania do chrztu, pierwszej komunii i bierzmowania dla dorosłych
+
+gdzie: ul. Freta 10
+kościół św Jacka oo. dominikanów
+spotkania odbywają się od 9 listopada we wtorki. o godz 19.
+
+Chrzest - podczas Wigilii Paschalnej
+Bierzmowanie - w noc Zesłania Ducha Świętego
+
+zapraszamy! o. Andrzej Morka OP
+
+kontakt: Magda Gryszko "gryszko.magda@gmail.com"
+
+"Nie lękaj się,bo cię wykupiłem,wezwałem po imieniu: tyś moim!"
+Iz 43,1
+
+<!--{{json:{"created_date":"2010-11-03 22:20:34","publish_down":"0000-00-00 00:00:00","id":"984"}}}-->

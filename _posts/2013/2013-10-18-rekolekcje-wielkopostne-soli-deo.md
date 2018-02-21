@@ -1,0 +1,31 @@
+---
+title: Rekolekcje wielkopostne Soli Deo
+date: 2013-10-18
+redirect_from: 
+  - 2013/2013.10.18-rekolekcje-wielkopostne-soli-deo
+  - rekolekcje-wielkopostne-soli-deo
+
+published: true
+---
+
+
+![/assets/posts/2013/2013-10-18-rekolekcje-wielkopostne-soli-deo/rekol_szustak_01.jpg](/assets/posts/2013/2013-10-18-rekolekcje-wielkopostne-soli-deo/rekol_szustak_01.jpg)
+
+# Rekolekcje wielkopostne Soli Deo
+
+<time>2013-10-18 16:44:19</time>
+
+
+
+
+![/assets/posts/2013/2013-10-18-rekolekcje-wielkopostne-soli-deo/rekol_szustak_03.jpg](/assets/posts/2013/2013-10-18-rekolekcje-wielkopostne-soli-deo/rekol_szustak_03.jpg)
+![/assets/posts/2013/2013-10-18-rekolekcje-wielkopostne-soli-deo/rekol_szustak_02.jpg](/assets/posts/2013/2013-10-18-rekolekcje-wielkopostne-soli-deo/rekol_szustak_02.jpg)
+
+
+W dniach 8-10.03.2013 w Choszczówce odbyły się rekolekcje wielkopostne dla członków Soli Deo. Naszym rekolekcjonistą był o. Adam Szustak OP. Poniżej nagrania z dwóch konferencji, które wygłosił podczas tych dni.
+
+
+{music}mp3/Szustak_rekolekcje_SoliDeo_2013{/music}
+
+
+<!--{{json:{"created_date":"2013-10-18 16:44:19","publish_down":"0000-00-00 00:00:00","id":"5315"}}}-->

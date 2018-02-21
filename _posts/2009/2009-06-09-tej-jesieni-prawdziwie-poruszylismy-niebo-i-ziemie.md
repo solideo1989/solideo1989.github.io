@@ -1,0 +1,23 @@
+---
+title: Tej jesieni prawdziwie poruszyliśmy niebo i ziemię!
+date: 2009-06-09
+redirect_from: 
+  - tej-jesieni-prawdziwie-poruszylismy-niebo-i-ziemie
+  - 2009/2009.06.09-tej-jesieni-prawdziwie-poruszylismy-niebo-i-ziemie
+
+published: true
+---
+
+
+
+# Tej jesieni prawdziwie poruszyliśmy niebo i ziemię!
+
+<time>Dziś (data umieszczenia na nowej stronie: 2009-06-09 15:38:06)</time>
+
+Dziś | 
+Kolejny semestr projektu "Poruszyć Niebo i Ziemię" zakończył się wielkim sukcesem. Około 5 tys. osób uczestniczyło w konferencjach, warsztatach i pozostałych wydarzeniach. 
+
+Zapraszamy do lektury podsumowania semestru.
+
+
+<!--{{json:{"created_date":"2009-06-09 15:38:06","publish_down":"0000-00-00 00:00:00","id":"766"}}}-->

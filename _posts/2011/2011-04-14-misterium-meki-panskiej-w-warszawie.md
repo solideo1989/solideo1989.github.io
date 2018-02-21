@@ -1,0 +1,51 @@
+---
+title: Misterium Męki Pańskiej w Warszawie!
+date: 2011-04-14
+redirect_from: 
+  - misterium-meki-panskiej-w-warszawie
+  - 2011/2011.04.14-misterium-meki-panskiej-w-warszawie
+
+published: true
+---
+
+
+![images/stories/01.jpg](images/stories/01.jpg)
+
+# Misterium Męki Pańskiej w Warszawie!
+
+<time>2011-04-14 21:52:10</time>
+
+
+Organizowane od ponad 10 lat w Poznaniu MISTERIUM MĘKI PAŃSKIEJ w tym roku poraz pierwszy zawita do Warszawy.
+
+Misterium odbędzie się w sobotę, **16 kwietnia** (od godz. 20:00) na **Torze Wyścigów Konnych na Służewcu**.
+
+
+Szczegóły na [www.misterium.eu](http://www.misterium.eu/)
+
+Gorąco zachęcamy do uczestnictwa!
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+Organizowane od ponad 10 lat w Poznaniu MISTERIUM MĘKI PAŃSKIEJ w tym roku poraz pierwszy zawita do Warszawy.
+
+
+
+
+
+Misterium odbędzie się w sobotę, **16 kwietnia** (od godz. 20:00) na **Torze Wyścigów Konnych na Służewcu**.
+
+
+
+
+
+
+Szczegóły na [www.misterium.eu](http://www.misterium.eu/)
+
+Gorąco zachęcamy do uczestnictwa!
+
+
+-->
+
+<!--{{json:{"created_date":"2011-04-14 21:52:10","publish_down":"0000-00-00 00:00:00","id":"126"}}}-->

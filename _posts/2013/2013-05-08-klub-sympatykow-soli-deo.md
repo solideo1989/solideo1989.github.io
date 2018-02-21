@@ -1,0 +1,22 @@
+---
+title: Klub Sympatyków Soli Deo
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-klub-sympatykow-soli-deo
+
+published: true
+---
+
+
+
+# Klub Sympatyków Soli Deo
+
+<time>Dziś (data umieszczenia na nowej stronie: 2013-05-08 20:59:32)</time>
+
+Dziś | W ostatnim czasie **Soli Deo bardzo&nbsp;dynamicznie się&nbsp;rozwija.** Nasze zaproszenia przyjmują kolejne **wybitne i sławne osoby**, w spotkaniach biorą udział **tysiące uczestników**, informacje o organizowanych wydarzeniach pojawiają się w **największych mediach**, wielką popularnością cieszą się filmy zamieszczane na Youtube. 
+
+Nowa sytuacja, w jakiej się znaleźliśmy, wymaga nowych rozwiązań. Dlatego chcemy się zwrócić do Was z prośbą o pomoc w dalszym rozwoju i przedstawić Wam nową propozycję wsparcia - **Klub Sympatyków Soli Deo**.
+Zapraszamy do zapoznania się z naszą propozycją i do wsparcia naszego działania
+
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"850"}}}-->

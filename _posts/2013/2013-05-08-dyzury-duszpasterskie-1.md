@@ -1,0 +1,38 @@
+---
+title: Dyżury duszpasterskie! 1
+date: 2013-05-08
+redirect_from: 
+  - 2013/2013.05.08-dyzury-duszpasterskie-1
+
+published: true
+---
+
+
+![images/stories/mmuszyski2.jpg](images/stories/mmuszyski2.jpg)
+
+# Dyżury duszpasterskie! 1
+
+<time>2013-05-08 20:59:32</time>
+
+
+
+
+ 
+   Potrzebujesz rady i wsparcia?
+   Masz wątpliwości dotyczące wiary?
+   Szukasz porady duchowej?
+   Ksiądz **Michał Muszyński**, duszpasterz Soli Deo, czeka na Ciebie!
+ 
+ 
+Zapraszamy na Dyżury Duszpasterskie ks. Muszyńskiego **w każdy** **czwartek** w godz.** 13.20-14.45**,ż w sali **223** w Budynku Głównym SGH.
+              
+<!--{{intro-break}}-->
+
+  Ks. Michał to charyzmatyczna, pełna empatii osoba, obdarzona  dystansem do siebie i poczuciem humoru. Ks. Muszyński posiada  doświadczenie w pracy ze studentami, jest duszpasterzem akademickim w  kościele św. Anny.
+ 
+Zapraszamy!
+ASK Soli Deo
+ 
+
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"1036"}}}-->

@@ -1,0 +1,22 @@
+---
+title: Muzyka bębnów na wiosenne przebudzenie ducha
+date: 2009-01-16
+redirect_from: 
+  - muzyka-bebnow-na-wiosenne-przebudzenie-ducha
+  - 2009/2009.01.16-muzyka-bebnow-na-wiosenne-przebudzenie-ducha
+
+published: true
+---
+
+
+
+# Muzyka bębnów na wiosenne przebudzenie ducha
+
+<time>Luty-Marzec</time>
+
+Luty-Marzec | Zapraszamy na nową edycje warsztatów bębniarskich. W te ferie i w nowym semestrze. Zapewniamy świetną zabawę!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): Luty-Marzec | Zapraszamy na nową edycje warsztatów bębniarskich. W te ferie i w nowym semestrze. Zapewniamy świetną zabawę! 
+-->
+
+<!--{{json:{"created_date":"2009-01-16 13:29:42","publish_down":"0000-00-00 00:00:00","id":"698"}}}-->

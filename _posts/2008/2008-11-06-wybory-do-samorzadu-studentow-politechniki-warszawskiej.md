@@ -1,0 +1,49 @@
+---
+title: Wybory do Samorządu Studentów Politechniki Warszawskiej
+date: 2008-11-06
+redirect_from: 
+  - wybory-do-samorzadu-studentow-politechniki-warszawskiej
+  - 2008/2008.11.06-wybory-do-samorzadu-studentow-politechniki-warszawskiej
+
+published: true
+---
+
+
+
+# Wybory do Samorządu Studentów Politechniki Warszawskiej
+
+<time>15-23 listopada</time>
+
+15-23 listopada | 
+Akademickie Stowarzyszenie Katolickie 
+
+**Soli Deo PW 
+
+Lista nr 10**
+
+Dziękujemy za oddane głosy.
+
+Obiecujemy, że nie pójdą na marne.
+
+[Wyniki:](http://www.samorzad.pw.edu.pl/tiki-index.php?page=Wybory)
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 15-23 listopada | 
+Akademickie Stowarzyszenie Katolickie 
+
+**Soli Deo PW 
+
+Lista nr 10**
+
+Dziękujemy za oddane głosy.
+
+Obiecujemy, że nie pójdą na marne.
+
+[Wyniki:](http://www.samorzad.pw.edu.pl/tiki-index.php?page=Wybory)
+
+
+
+         
+-->
+
+<!--{{json:{"created_date":"2008-11-06 13:38:51","publish_down":"0000-00-00 00:00:00","id":"679"}}}-->

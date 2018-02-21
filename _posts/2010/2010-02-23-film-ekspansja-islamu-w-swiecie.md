@@ -1,0 +1,23 @@
+---
+title: Film Ekspansja Islamu w świecie
+date: 2010-02-23
+redirect_from: 
+  - 2010/2010.02.23-film-ekspansja-islamu-w-swiecie
+  - film-ekspansja-islamu-w-swiecie
+
+published: true
+---
+
+
+
+# Film Ekspansja Islamu w świecie
+
+<time>Dziś (data umieszczenia na nowej stronie: 2010-02-23 18:38:47)</time>
+
+Dziś | 
+&nbsp;
+
+Zachęcamy do obejrzenia filmu o **ekspansji Islamu w świecie.** 
+
+
+<!--{{json:{"created_date":"2010-02-23 18:38:47","publish_down":"0000-00-00 00:00:00","id":"876"}}}-->

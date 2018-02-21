@@ -1,0 +1,32 @@
+---
+title: Dołącz do nas i poleć nas znajomym na Facebooku
+date: 2010-04-07
+redirect_from: 
+  - 2010/2010.04.07-dolacz-do-nas-i-polec-nas-znajomym-na-facebooku
+  - dolacz-do-nas-i-polec-nas-znajomym-na-facebooku
+
+published: true
+---
+
+
+
+# Dołącz do nas i poleć nas znajomym na Facebooku
+
+<time>Dziś (data umieszczenia na nowej stronie: 2010-04-07 11:55:40)</time>
+
+Dziś | 
+Soli Deo idzie z duchem czasu! 
+
+Na **Facebooku** znajdziesz **użytkownika** Soli Deo, **stronę **Soli Deo i **grupę **Soli Deo! 
+
+Czekają na Ciebie ciekawe wiadomości, komentarze, zdjęcia. 
+
+**Dołącz do nas!**
+
+Byłoby to&nbsp;też **wyrazem poparcia** dla naszych działań. 
+
+Zachęcamy także do tego by&nbsp; **zaproponować swoim znajomym **z Facebooka, aby też zostali naszymi fanami!
+Jeśli uważasz, że to co robimy jest wartościowe , pomóż nam dotrzeć z informacją do jak najszerszego grona osób!
+
+
+<!--{{json:{"created_date":"2010-04-07 11:55:40","publish_down":"0000-00-00 00:00:00","id":"922"}}}-->

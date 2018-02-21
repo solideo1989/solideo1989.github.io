@@ -1,0 +1,67 @@
+---
+title: Uniwersytet Medyczny w Poznaniu - kontakt
+date: 2013-08-06
+redirect_from: 
+  - 2013/2013.08.06-uniwersytet-medyczny-w-poznaniu-kontakt
+  - akademia-pedagogiki-specjalnej-kontakt
+
+published: true
+---
+
+
+
+# Uniwersytet Medyczny w Poznaniu - kontakt
+
+<time>2013-08-06 16:47:37</time>
+
+
+**Uniwersytet Medyczny w Poznaniu - kontakt**
+
+
+ 
+
+
+**PREZES:**
+
+
+**Monika Ziemkiewicz**
+[monikaziemkiewicz@wp.pl](monikaziemkiewicz@wp.pl%20) 
+
+
+ 
+
+
+**HR:**
+
+
+**Agnieszka Kuśmierska**
+a.kusmierska.x@gmail.com
+
+
+ 
+
+
+**SEKRETARZ:**
+
+
+**Dominika Sobieraj**
+dominikasobieraj@wp.pl
+
+
+ 
+
+
+**SKARBNIK:**
+
+
+**Anna Zając**
+zajacanna19@gmail.com
+
+
+ 
+
+
+ 
+
+
+<!--{{json:{"created_date":"2013-08-06 16:47:37","publish_down":"0000-00-00 00:00:00","id":"5282"}}}-->

@@ -1,0 +1,26 @@
+---
+title: Wykład o Kardynale Stefanie Wyszyńskim
+date: 2011-04-27
+redirect_from: 
+  - 2011/2011.04.27-wyklad-o-kardynale-stefanie-wyszynskim
+
+published: true
+---
+
+
+
+# Wykład o Kardynale Stefanie Wyszyńskim
+
+<time>2011-04-27 17:50:40</time>
+
+
+Wykład o patronie ASK Soli Deo, prymasie **Stefanie Wyszyńskim**, wygłoszony przez historyka mgr Zawistowskiego podczas dnia skupienia w Choszczówce:
+
+
+ 
+
+
+{music}mp3/wyklad_o_wyszynskim{/music}
+
+
+<!--{{json:{"created_date":"2011-04-27 17:50:40","publish_down":"0000-00-00 00:00:00","id":"134"}}}-->

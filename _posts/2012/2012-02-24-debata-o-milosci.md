@@ -1,0 +1,69 @@
+---
+title: Debata o miłości
+date: 2012-02-24
+redirect_from: 
+  - 2012/2012.02.24-debata-o-milosci
+  - debata-o-milosci
+
+published: true
+---
+
+
+![serce_motyle](images/stories/grafiki/serce_motyle.jpg)
+
+# Debata o miłości
+
+<time>2012-02-24 17:01:29</time>
+
+
+
+Kochać jak to łatwo powiedzieć- czyli jak wygrać MIŁOŚĆ?
+ 
+W debacie wezmą udział:
+**Radosław Pazura&nbsp;**- aktor
+dr **Monika Waluś** - teolog
+**Beata i Marcin Mądrzy&nbsp;**- wodzireje, rodzice czworga dzieci.
+
+Debata odbędzie się **w środę 29 lutego o godz. 19.00** w Gmachu głównym **SGH w auli B**, I piętro.
+Serdecznie zapraszamy!
+ 
+
+<!--{{intro-break}}-->
+
+Organizatorzy: ASK Soli Deo, KSM
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+
+Kochać jak to łatwo powiedzieć- czyli jak wygrać MIŁOŚĆ?
+
+
+ 
+
+
+W debacie wezmą udział:
+
+
+**Radosław Pazura&nbsp;**- aktor
+
+
+dr **Monika Waluś** - teolog
+**Beata i Marcin Mądrzy&nbsp;**- wodzireje, rodzice czworga dzieci.
+
+Debata odbędzie się **w środę 29 lutego o godz. 19.00** w Gmachu głównym **SGH w auli B**, I piętro.
+
+
+Serdecznie zapraszamy!
+
+
+ 
+
+
+<!--{{intro-break}}-->
+
+
+Organizatorzy: ASK Soli Deo, KSM
+
+-->
+
+<!--{{json:{"created_date":"2012-02-24 17:01:29","publish_down":"0000-00-00 00:00:00","id":"1069"}}}-->

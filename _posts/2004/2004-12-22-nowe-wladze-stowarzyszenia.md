@@ -1,0 +1,22 @@
+---
+title: nowe władze Stowarzyszenia
+date: 2004-12-22
+redirect_from: 
+  - nowe-wladze-stowarzyszenia
+  - 2004/2004.12.22-nowe-wladze-stowarzyszenia
+
+published: true
+---
+
+
+
+# nowe władze Stowarzyszenia
+
+<time>18 grudnia 2004</time>
+
+18 grudnia 2004 | Walne Zgromadzenie ASK Soli Deo wybrało Prezesa Stowarzyszenia - Marka Zgorzelskiego oraz Przewodniczącą Komisji Rewizyjnej - Annę Jarkulisz. Zarządy Kół Terenowych wybrane przez Walne Zgromadzenia swoich Kół wydelegowały przedstawicieli do Zarządu Głównego oraz Komisji Rewizyjnej.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 18 grudnia 2004 | Walne Zgromadzenie ASK Soli Deo wybrało Prezesa Stowarzyszenia - Marka Zgorzelskiego oraz Przewodniczącą Komisji Rewizyjnej - Annę Jarkulisz. Zarządy Kół Terenowych wybrane przez Walne Zgromadzenia swoich Kół wydelegowały przedstawicieli do Zarządu Głównego oraz Komisji Rewizyjnej.
+-->
+
+<!--{{json:{"created_date":"2004-12-22 15:43:03","publish_down":"0000-00-00 00:00:00","id":"193"}}}-->

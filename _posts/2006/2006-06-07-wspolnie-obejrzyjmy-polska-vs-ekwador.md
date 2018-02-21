@@ -1,0 +1,22 @@
+---
+title: Wspólnie obejrzyjmy: Polska vs Ekwador!
+date: 2006-06-07
+redirect_from: 
+  - 2006/2006.06.07-wspolnie-obejrzyjmy-polska-vs-ekwador
+  - wspolnie-obejrzyjmy-polska-vs-ekwador
+
+published: true
+---
+
+
+
+# Wspólnie obejrzyjmy: Polska vs Ekwador!
+
+<time>PIĄTEK</time>
+
+PIĄTEK | [u]9 czerwca 2006[/u][br]16:00 - ceremonia otwarcia MŚ2006[br]18:00 - Niemcy-Kostaryka[br]21:00 - POLSKA - Ekwador[br]Zapraszam! [i]Grzesiek[/i]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): PIĄTEK | [u]9 czerwca 2006[/u][br]16:00 - ceremonia otwarcia MŚ2006[br]18:00 - Niemcy-Kostaryka[br]21:00 - POLSKA - Ekwador[br]Zapraszam! [i]Grzesiek[/i]
+-->
+
+<!--{{json:{"created_date":"2006-06-07 21:10:33","publish_down":"0000-00-00 00:00:00","id":"364"}}}-->

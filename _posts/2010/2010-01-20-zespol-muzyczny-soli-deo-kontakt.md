@@ -1,0 +1,36 @@
+---
+title: Zespół muzyczny Soli Deo - kontakt
+date: 2010-01-20
+redirect_from: 
+  - 2010/2010.01.20-zespol-muzyczny-soli-deo-kontakt
+
+published: true
+---
+
+
+
+# Zespół muzyczny Soli Deo - kontakt
+
+<time>2010-01-20 17:00:45</time>
+
+
+Zespół muzyczny "Lumen", zrzeszający głosy i instrumenty, ma próby w **każdy czwartek w godzinach 17-18** na terenie parafii Wszystkich Świętych przy pl. Grzybowskim.
+
+
+ 
+
+
+SZEF: Agata Kotwa
+
+
+tel. **515-321-661**
+
+
+**agkott@gmail.com**
+
+
+ 
+
+
+
+<!--{{json:{"created_date":"2010-01-20 17:00:45","publish_down":"0000-00-00 00:00:00","id":"70"}}}-->

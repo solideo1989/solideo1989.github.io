@@ -1,0 +1,22 @@
+---
+title: prezent noworoczny ;)
+date: 2006-01-03
+redirect_from: 
+  - prezent-noworoczny
+  - 2006/2006.01.03-prezent-noworoczny-)
+
+published: true
+---
+
+
+
+# prezent noworoczny ;)
+
+<time>od dziś</time>
+
+od dziś | w dziale "multimedia" wrzuciliśmy coś zupełnie nowego w Soli Deo ;)) - [b]tapety[/b], które specjalnie dla nas zrobił Paweł Michalak (dzięki!). Zapraszamy!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): od dziś | w dziale "multimedia" wrzuciliśmy coś zupełnie nowego w Soli Deo ;)) - [b]tapety[/b], które specjalnie dla nas zrobił Paweł Michalak (dzięki!). Zapraszamy!
+-->
+
+<!--{{json:{"created_date":"2006-01-03 13:32:58","publish_down":"0000-00-00 00:00:00","id":"295"}}}-->

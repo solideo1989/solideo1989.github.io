@@ -1,0 +1,26 @@
+---
+title: Rzecznik prasowy
+date: 2013-08-06
+redirect_from: 
+  - rzecznik-prasowy
+  - 2013/2013.08.06-rzecznik-prasowy
+
+published: true
+---
+
+
+
+# Rzecznik prasowy
+
+<time>2013-08-06 16:01:02</time>
+
+
+**Rzecznik prasowy - kontakt**
+
+
+Gabriela Góźdź 
+
+rzeczniksolideo@gmail.com
+
+
+<!--{{json:{"created_date":"2013-08-06 16:01:02","publish_down":"0000-00-00 00:00:00","id":"5270"}}}-->

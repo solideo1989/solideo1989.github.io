@@ -1,0 +1,36 @@
+---
+title: Zwariuj aby żyć!
+date: 2010-05-24
+redirect_from: 
+  - 2010/2010.05.24-zwariuj-aby-zyc
+  - zwariuj-aby-zyc
+
+published: true
+---
+
+
+
+# Zwariuj aby żyć!
+
+<time>3-12 lipca</time>
+
+3-12 lipca | 
+Forum Młodzieży z Polski i innych krajów Europy
+
+Dzisiejsza normalność bywa czasami tak dziwna, że aby być szczęśliwym trzeba zwariować. Na przekór modzie i wzorcom z tv zapraszamy Was do Dobroszyc, małej wioski pod Oleśnicą na Dolnym Śląsku. 
+Zapraszamy, byście zwariowali razem z nami.
+
+Gdzie? Dobroszyce
+Kiedy? 3 - 12 lipca 2010
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 3-12 lipca | 
+Forum Młodzieży z Polski i innych krajów Europy
+
+Dzisiejsza normalność bywa czasami tak dziwna, że aby być szczęśliwym trzeba zwariować. Na przekór modzie i wzorcom z tv zapraszamy Was do Dobroszyc, małej wioski pod Oleśnicą na Dolnym Śląsku. 
+Zapraszamy, byście zwariowali razem z nami.
+
+Gdzie? Dobroszyce
+Kiedy? 3 - 12 lipca 2010         
+-->
+
+<!--{{json:{"created_date":"2010-05-24 20:52:40","publish_down":"0000-00-00 00:00:00","id":"711"}}}-->

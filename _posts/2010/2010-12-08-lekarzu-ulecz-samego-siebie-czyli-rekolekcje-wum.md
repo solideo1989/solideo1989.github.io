@@ -1,0 +1,42 @@
+---
+title: LEKARZU, ULECZ SAMEGO SIEBIE, czyli Rekolekcje WUM
+date: 2010-12-08
+redirect_from: 
+  - lekarzu-ulecz-samego-siebie-czyli-rekolekcje-wum
+  - 2010/2010.12.08-lekarzu-ulecz-samego-siebie-czyli-rekolekcje-wum
+
+published: true
+---
+
+
+
+# LEKARZU, ULECZ SAMEGO SIEBIE, czyli Rekolekcje WUM
+
+<time>8-10 grudnia 2010</time>
+
+8-10 grudnia 2010 | REKOLEKCJE ADWENTOWE WUM
+
+"LEKARZU, ULECZ SAMEGO SIEBIE , czyli o Bożym prowadzeniu"
+
+8-10.12.2010
+godz.19.00
+
+Prowadzący: ks Darek Szyszka
+&nbsp;8.12 -&nbsp;KATECHEZAAula im.Paszkiewicza WUM (Anatomicum- ul.Chałubińskiego, róg Oczki )&nbsp;9.12 - SPOWIEDŹ&nbsp;i ADORACJAparafia św Alojzego Orione w Warszawie (ul.Lindleya 12)&nbsp;10.12 -&nbsp;MSZA ŚWIĘTA&nbsp;i KRÓTKA KATECHEZA
+Aula im.Paszkiewicza WUM (Anatomicum- ul.Chałubińskiego, róg Oczki )
+rekolekcje będzie wspierać zespół&nbsp; muzyczny&nbsp; "Dabar"
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 8-10 grudnia 2010 | REKOLEKCJE ADWENTOWE WUM
+
+"LEKARZU, ULECZ SAMEGO SIEBIE , czyli o Bożym prowadzeniu"
+
+8-10.12.2010
+godz.19.00
+
+Prowadzący: ks Darek Szyszka
+&nbsp;8.12 -&nbsp;KATECHEZAAula im.Paszkiewicza WUM (Anatomicum- ul.Chałubińskiego, róg Oczki )&nbsp;9.12 - SPOWIEDŹ&nbsp;i ADORACJAparafia św Alojzego Orione w Warszawie (ul.Lindleya 12)&nbsp;10.12 -&nbsp;MSZA ŚWIĘTA&nbsp;i KRÓTKA KATECHEZA
+Aula im.Paszkiewicza WUM (Anatomicum- ul.Chałubińskiego, róg Oczki )
+rekolekcje będzie wspierać zespół&nbsp; muzyczny&nbsp; "Dabar"                  
+-->
+
+<!--{{json:{"created_date":"2010-12-08 01:30:39","publish_down":"0000-00-00 00:00:00","id":"1001"}}}-->

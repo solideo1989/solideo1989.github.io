@@ -1,0 +1,41 @@
+---
+title: Wszystko jest po coś - spotkanie z Krzysztofem Ziemcem
+date: 2010-12-14
+redirect_from: 
+  - 2010/2010.12.14-wszystko-jest-po-cos-spotkanie-z-krzysztofem-ziemcem
+  - wszystko-jest-po-cos-spotkanie-z-krzysztofem-ziemcem
+
+published: true
+---
+
+
+
+# Wszystko jest po coś - spotkanie z Krzysztofem Ziemcem
+
+<time>17 grudnia 2010</time>
+
+17 grudnia 2010 | 
+Zapraszamy na spotkanie, które odbędzie się 17 grudzień 2010r, godz. 20.00-22.00, Gmach Główny Politechniki Warszawskiej, sala nr 144
+
+Podczas spotkania będziecie mieli okazję wysłuchać poruszającego świadectwa Krzysztofa Ziemca. Uległ on poważnemu poparzeniu gdy ratował swoją rodzinę z pożaru. Spotkanie poświęcone będzie tematowi pokonywania cierpienia, swoich słabości o ograniczeń, tego jak możemy pomagać cierpiącym osobom.
+
+Będzie również możliwość zakupienia najnowszej książki tego dziennikarza, po promocyjnej cenie z podpisem autora!
+Organizatorzy: 
+Darek Kamiński kaminski_darek@yahoo.co.uk, 604270768
+Zbyszek Kaliszuk zk28524@sgh.waw.pl
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 17 grudnia 2010 | 
+Zapraszamy na spotkanie, które odbędzie się 17 grudzień 2010r, godz. 20.00-22.00, Gmach Główny Politechniki Warszawskiej, sala nr 144
+
+Podczas spotkania będziecie mieli okazję wysłuchać poruszającego świadectwa Krzysztofa Ziemca. Uległ on poważnemu poparzeniu gdy ratował swoją rodzinę z pożaru. Spotkanie poświęcone będzie tematowi pokonywania cierpienia, swoich słabości o ograniczeń, tego jak możemy pomagać cierpiącym osobom.
+
+Będzie również możliwość zakupienia najnowszej książki tego dziennikarza, po promocyjnej cenie z podpisem autora!
+
+Organizatorzy: 
+Darek Kamiński kaminski_darek@yahoo.co.uk, 604270768
+Zbyszek Kaliszuk zk28524@sgh.waw.pl
+                  
+-->
+
+<!--{{json:{"created_date":"2010-12-14 22:17:23","publish_down":"0000-00-00 00:00:00","id":"1005"}}}-->

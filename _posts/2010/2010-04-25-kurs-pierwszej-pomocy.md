@@ -1,0 +1,21 @@
+---
+title: Kurs pierwszej pomocy
+date: 2010-04-25
+redirect_from: 
+  - 2010/2010.04.25-kurs-pierwszej-pomocy
+  - kurs-pierwszej-pomocy-62
+
+published: true
+---
+
+
+
+# Kurs pierwszej pomocy
+
+<time>28 i 29 maja</time>
+
+28 i 29 maja | 
+Zapraszamy na kurs pierwszej pomocy 28 i 29 maja. Koszt 50 zł. Zapisy tylko do 7 maja.
+
+
+<!--{{json:{"created_date":"2010-04-25 19:00:08","publish_down":"0000-00-00 00:00:00","id":"912"}}}-->

@@ -1,0 +1,42 @@
+---
+title: Tygrysi skok portalu Fronda.pl
+date: 2009-12-10
+redirect_from: 
+  - 2009/2009.12.10-tygrysi-skok-portalu-fronda-pl
+  - tygrysi-skok-portalu-fronda-pl
+
+published: true
+---
+
+
+
+# Tygrysi skok portalu Fronda.pl
+
+<time>grudzień 2009</time>
+
+grudzień 2009 | 
+**Ruszyła właśnie grudniowa Akcja 
+TYGRYSI SKOK FRONDA.PL**. Zapraszamy do **przyłączenia 
+się **do niej na miarę swoich możliwości oraz **poinformowanie o 
+niej znajomych **i rodziny.
+Z adwentowym pozdrowieniem,
+
+**Redakcja Fronda.pl**
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): grudzień 2009 | 
+**Ruszyła właśnie grudniowa Akcja 
+TYGRYSI SKOK FRONDA.PL**. Zapraszamy do **przyłączenia 
+się **do niej na miarę swoich możliwości oraz **poinformowanie o 
+niej znajomych **i rodziny.
+
+
+Z adwentowym pozdrowieniem,
+
+
+
+**Redakcja Fronda.pl**
+
+-->
+
+<!--{{json:{"created_date":"2009-12-10 16:00:48","publish_down":"0000-00-00 00:00:00","id":"822"}}}-->

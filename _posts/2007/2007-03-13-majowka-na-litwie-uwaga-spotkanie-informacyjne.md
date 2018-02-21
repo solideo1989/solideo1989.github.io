@@ -1,0 +1,34 @@
+---
+title: Majówka na Litwie- uwaga spotkanie informacyjne!!!
+date: 2007-03-13
+redirect_from: 
+  - 2007/2007.03.13-majowka-na-litwie-uwaga-spotkanie-informacyjne
+  - majowka-na-litwie-uwaga-spotkanie-informacyjne
+
+published: true
+---
+
+
+
+# Majówka na Litwie- uwaga spotkanie informacyjne!!!
+
+<time>1 maja- 6 maja 2007</time>
+
+1 maja- 6 maja 2007 | 
+Zapraszamy na majówkę na Litwie. W programie wiele atrakcji, m.in:
+zwiedzanie Kowna, Pożajścia, Trok, Wilna, Mariampola; integracja i wiele innych
+**UWAGA: spotkanie informacyjne:
+26.04.2007 (czwartek) 20.00
+kościół NSW Zbawiciela, w sali przy&nbsp;kancelarii (wejście z prawej strony kościoła)**&nbsp;
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 1 maja- 6 maja 2007 | 
+Zapraszamy na majówkę na Litwie. W programie wiele atrakcji, m.in:
+zwiedzanie Kowna, Pożajścia, Trok, Wilna, Mariampola; integracja i wiele innych
+**UWAGA: spotkanie informacyjne:
+26.04.2007 (czwartek) 20.00
+kościół NSW Zbawiciela, w sali przy&nbsp;kancelarii (wejście z prawej strony kościoła)**&nbsp;
+
+-->
+
+<!--{{json:{"created_date":"2007-03-13 23:15:56","publish_down":"0000-00-00 00:00:00","id":"469"}}}-->

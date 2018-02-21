@@ -1,0 +1,19 @@
+---
+title: [SGH] Rekolekcje Wielkopostne
+date: 2005-02-11
+redirect_from: 
+  - sgh-rekolekcje-wielkopostne-3
+  - 2005/2005.02.11-(sgh)-rekolekcje-wielkopostne
+
+published: true
+---
+
+
+
+# [SGH] Rekolekcje Wielkopostne
+
+<time>28 luty, 1-2 marzec</time>
+
+28 luty, 1-2 marzec | Zapraszamy o godz. 19.00 do auli II! temat w tym roku to: Oblicze Chrystusa obliczem człowieka na podstawie Pieśni nad Pieśniami. Głosic rekolekcje bedzie o. Jan Gora (!)
+
+<!--{{json:{"created_date":"2005-02-11 13:23:06","publish_down":"0000-00-00 00:00:00","id":"207"}}}-->

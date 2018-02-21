@@ -1,0 +1,22 @@
+---
+title: STUNDIAL czyli Studencki Mundial
+date: 2006-06-23
+redirect_from: 
+  - stundial-czyli-studencki-mundial
+  - 2006/2006.06.23-stundial-czyli-studencki-mundial
+
+published: true
+---
+
+
+
+# STUNDIAL czyli Studencki Mundial
+
+<time>24 czerwca 2006, godz. 11:00</time>
+
+24 czerwca 2006, godz. 11:00 | Wszyscy fani Mundialu Przybywajcie!!![br]Turniej odbędzie się na stadionie Skry Warszawa. Zapewniamy wspaniałą zabwę w posesyjnej atmosferze...!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 24 czerwca 2006, godz. 11:00 | Wszyscy fani Mundialu Przybywajcie!!![br]Turniej odbędzie się na stadionie Skry Warszawa. Zapewniamy wspaniałą zabwę w posesyjnej atmosferze...!
+-->
+
+<!--{{json:{"created_date":"2006-06-23 22:02:16","publish_down":"0000-00-00 00:00:00","id":"368"}}}-->

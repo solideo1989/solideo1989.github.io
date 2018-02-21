@@ -1,0 +1,22 @@
+---
+title: Chcesz posłuchać o.Góry jeszcze raz?
+date: 2005-03-03
+redirect_from: 
+  - 2005/2005.03.03-chcesz-posluchac-o-gory-jeszcze-raz
+  - chcesz-posluchac-o-gory-jeszcze-raz
+
+published: true
+---
+
+
+
+# Chcesz posłuchać o.Góry jeszcze raz?
+
+<time>multimedia</time>
+
+multimedia | Nagranie trzech dni wspaniałych rozważań na temat "Pieśni nad pieśniami" przeplatanych anegdotami o.Góry znajduje się w nowym dziale "Multimedia".
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): multimedia | Nagranie trzech dni wspaniałych rozważań na temat "Pieśni nad pieśniami" przeplatanych anegdotami o.Góry znajduje się w nowym dziale "Multimedia".
+-->
+
+<!--{{json:{"created_date":"2005-03-03 21:17:31","publish_down":"0000-00-00 00:00:00","id":"213"}}}-->

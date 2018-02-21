@@ -1,0 +1,22 @@
+---
+title: Rekolekcje Adwentowe Soli Deo (wyjazdowe)
+date: 2005-11-24
+redirect_from: 
+  - 2005/2005.11.24-rekolekcje-adwentowe-soli-deo-(wyjazdowe)
+  - rekolekcje-adwentowe-soli-deo-wyjazdowe
+
+published: true
+---
+
+
+
+# Rekolekcje Adwentowe Soli Deo (wyjazdowe)
+
+<time>2-4 grudnia 2005</time>
+
+2-4 grudnia 2005 | W tym roku Rekolekcje odbeda sie oddzielnie dla dziewczynek i oddzielnie dla chłopców. Zapraszamy!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 2-4 grudnia 2005 | W tym roku Rekolekcje odbeda sie oddzielnie dla dziewczynek i oddzielnie dla chłopców. Zapraszamy!
+-->
+
+<!--{{json:{"created_date":"2005-11-24 14:29:50","publish_down":"0000-00-00 00:00:00","id":"277"}}}-->

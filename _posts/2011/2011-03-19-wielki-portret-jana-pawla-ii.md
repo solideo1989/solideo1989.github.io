@@ -1,0 +1,39 @@
+---
+title: Wielki portret Jana Pawła II!
+date: 2011-03-19
+redirect_from: 
+  - wielki-portret-jana-pawla-ii
+  - 2011/2011.03.19-wielki-portret-jana-pawla-ii
+
+published: true
+---
+
+
+![jpii](images/stories/jpii.jpg)
+
+# Wielki portret Jana Pawła II!
+
+<time>2011-03-19 14:18:08</time>
+
+
+
+
+Zjednoczmy się jeszcze raz w imię tego, czego uczył nas Papież. Stwórzmy wspólnie - wysyłając przez Internet zdjęcia nas i naszych bliskich - **Wielki Portret Jana Pawła II**, który zostanie wydrukowany i rozpostarty na filarach budynku Świątyni Opatrzności Bożej w czasie uroczystości beatyfikacyjnych.
+ 
+[http://portretjp2.pl](http://portretjp2.pl/)
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+
+
+Zjednoczmy się jeszcze raz w imię tego, czego uczył nas Papież. Stwórzmy wspólnie - wysyłając przez Internet zdjęcia nas i naszych bliskich - **Wielki Portret Jana Pawła II**, który zostanie wydrukowany i rozpostarty na filarach budynku Świątyni Opatrzności Bożej w czasie uroczystości beatyfikacyjnych.
+
+
+ 
+
+
+[http://portretjp2.pl](http://portretjp2.pl/)
+
+-->
+
+<!--{{json:{"created_date":"2011-03-19 14:18:08","publish_down":"0000-00-00 00:00:00","id":"105"}}}-->

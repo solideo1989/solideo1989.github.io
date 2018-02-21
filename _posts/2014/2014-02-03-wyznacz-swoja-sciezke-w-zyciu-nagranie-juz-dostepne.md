@@ -1,0 +1,26 @@
+---
+title: Wyznacz swoją ścieżkę w życiu - nagranie już dostępne
+date: 2014-02-03
+redirect_from: 
+  - 2014/2014.02.03-wyznacz-swoja-sciezke-w-zyciu-nagranie-juz-dostepne
+
+published: true
+---
+
+
+![/assets/posts/2014/2014-02-03-wyznacz-swoja-sciezke-w-zyciu-nagranie-juz-dostepne/rnoworolski01.jpg](/assets/posts/2014/2014-02-03-wyznacz-swoja-sciezke-w-zyciu-nagranie-juz-dostepne/rnoworolski01.jpg)
+
+# Wyznacz swoją ścieżkę w życiu - nagranie już dostępne
+
+<time>2014-02-03 15:44:54</time>
+
+
+
+Nagranie z konferencji „Kariera w Twoich Rękach - Wyznacz Swoją Ścieżkę w Życiu!” **Roberta Noworolskiego** jest już dostępne w multimediach.
+
+
+**
+Warto posłuchać człowieka, który miał być księdzem, a został konsultantem biznesowym!:-)**
+
+
+<!--{{json:{"created_date":"2014-02-03 15:44:54","publish_down":"0000-00-00 00:00:00","id":"5362"}}}-->

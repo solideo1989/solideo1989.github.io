@@ -1,0 +1,32 @@
+---
+title: Wideorelacja z obozu zerowego PW i WUM - Wetlina 2008
+date: 2008-09-14
+redirect_from: 
+  - 2008/2008.09.14-wideorelacja-z-obozu-zerowego-pw-i-wum-wetlina-2008
+  - wideorelacja-z-obozu-zerowego-pw-i-wum-wetlina-2008
+
+published: true
+---
+
+
+
+# Wideorelacja z obozu zerowego PW i WUM - Wetlina 2008
+
+<time>już teraz!</time>
+
+już teraz! | 
+Zapraszamy do obejrzenia wideorelacji z niezapomnianego obozu zerowego Wetlina 2008:
+
+[link%n%Wideorelacja na Youtube%http://www.youtube.com/watch?v=_yGxzFYQe1k]
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): już teraz! | 
+Zapraszamy do obejrzenia wideorelacji z niezapomnianego obozu zerowego Wetlina 2008:
+
+[link%n%Wideorelacja na Youtube%http://www.youtube.com/watch?v=_yGxzFYQe1k]
+
+
+-->
+
+<!--{{json:{"created_date":"2008-09-14 21:04:54","publish_down":"0000-00-00 00:00:00","id":"643"}}}-->

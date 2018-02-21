@@ -1,0 +1,32 @@
+---
+title: Jutrznia w kościele akademickim św. Anny
+date: 2010-02-23
+redirect_from: 
+  - 2010/2010.02.23-jutrznia-w-kosciele-akademickim-sw-anny
+  - jutrznia-w-kosciele-akademickim-sw-anny
+
+published: true
+---
+
+
+
+# Jutrznia w kościele akademickim św. Anny 
+
+<time>Od poniedziałku do piątku o 6 rano</time>
+
+Od poniedziałku do piątku o 6 rano | 
+W Wielkim Poście od poniedziałku do piątku zapraszamy do **kościoła akademickiego św. Anny na 6.00 rano na jutrznię**.
+Jutrznia to poranna modlitwa Kościoła z brewiarza - liturgii godzin przeznaczonej także dla świeckich.
+
+&nbsp;Członków i sympatyków zachęcam do spotykania się pod Wieżą już o **5.50**.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): Od poniedziałku do piątku o 6 rano | 
+W Wielkim Poście od poniedziałku do piątku zapraszamy do **kościoła akademickiego św. Anny na 6.00 rano na jutrznię**.
+Jutrznia to poranna modlitwa Kościoła z brewiarza - liturgii godzin przeznaczonej także dla świeckich.
+
+&nbsp;Członków i sympatyków zachęcam do spotykania się pod Wieżą już o **5.50**.
+
+-->
+
+<!--{{json:{"created_date":"2010-02-23 18:29:55","publish_down":"0000-00-00 00:00:00","id":"875"}}}-->

@@ -1,0 +1,22 @@
+---
+title: Spotkania w kwietniu
+date: 2005-04-03
+redirect_from: 
+  - spotkania-w-kwietniu
+  - 2005/2005.04.03-spotkania-w-kwietniu
+
+published: true
+---
+
+
+
+# Spotkania w kwietniu
+
+<time>UKSW, SGH, UW</time>
+
+UKSW, SGH, UW | Zapraszamy na spotkania formacyjne Soli Deo - na SGH "spotkania wtorkowe", na UW - "spotkania poniedziałkowe", na UKSW - w piatki/soboty
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): UKSW, SGH, UW | Zapraszamy na spotkania formacyjne Soli Deo - na SGH "spotkania wtorkowe", na UW - "spotkania poniedziałkowe", na UKSW - w piatki/soboty
+-->
+
+<!--{{json:{"created_date":"2005-04-03 10:10:10","publish_down":"0000-00-00 00:00:00","id":"186"}}}-->

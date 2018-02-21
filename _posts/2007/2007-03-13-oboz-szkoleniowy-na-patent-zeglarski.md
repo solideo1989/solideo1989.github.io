@@ -1,0 +1,48 @@
+---
+title: Obóz szkoleniowy na patent żeglarski
+date: 2007-03-13
+redirect_from: 
+  - oboz-szkoleniowy-na-patent-zeglarski
+  - 2007/2007.03.13-oboz-szkoleniowy-na-patent-zeglarski
+
+published: true
+---
+
+
+
+# Obóz szkoleniowy na patent żeglarski
+
+<time>9 lipca- 23 lipca 2007</time>
+
+9 lipca- 23 lipca 2007 | 
+Serdecznie zapraszamy na obóz szkoleniowy na patent żeglarski.
+**Są jeszcze wolne miejsca!!!
+**
+SPOTKANIE INFORMACYJNE 
+
+ŚRODA 4.07.2007 godz. 19.00 
+
+Mc Donald's przy Ciepłowni Wola 
+
+(skrzyżowanie Powstańców Śląskich z Połczyńską) 
+
+*dojazd:* tramwaje: 8, 10, 26, 27; autobusy: 105, 125, 129, 155, 184, 189, 194, 408, 506, 713, 716, 106, 149, 184, 506
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 9 lipca- 23 lipca 2007 | 
+Serdecznie zapraszamy na obóz szkoleniowy na patent żeglarski.
+**Są jeszcze wolne miejsca!!!
+**
+SPOTKANIE INFORMACYJNE 
+
+ŚRODA 4.07.2007 godz. 19.00 
+
+Mc Donald's przy Ciepłowni Wola 
+
+(skrzyżowanie Powstańców Śląskich z Połczyńską) 
+
+*dojazd:* tramwaje: 8, 10, 26, 27; autobusy: 105, 125, 129, 155, 184, 189, 194, 408, 506, 713, 716, 106, 149, 184, 506
+
+-->
+
+<!--{{json:{"created_date":"2007-03-13 23:10:44","publish_down":"0000-00-00 00:00:00","id":"461"}}}-->

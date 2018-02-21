@@ -1,0 +1,22 @@
+---
+title: [PW] Wystawa kopii Całunu Turyńskiego
+date: 2006-04-21
+redirect_from: 
+  - pw-wystawa-kopii-calunu-turynskiego
+  - 2006/2006.04.21-(pw)-wystawa-kopii-calunu-turynskiego
+
+published: true
+---
+
+
+
+# [PW] Wystawa kopii Całunu Turyńskiego
+
+<time>29 maja - 2 czerwca 2006</time>
+
+29 maja - 2 czerwca 2006 | W Auli Dużej Głównego Gmachu Politechniki Warszawskiej będzie miała miejsce wystawa kopii Całunu Turyńskiego. Ów niezwykły przedmiot będzie można oglądać od 29 maja do 2 czerwca. Serdecznie zapraszamy
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 29 maja - 2 czerwca 2006 | W Auli Dużej Głównego Gmachu Politechniki Warszawskiej będzie miała miejsce wystawa kopii Całunu Turyńskiego. Ów niezwykły przedmiot będzie można oglądać od 29 maja do 2 czerwca. Serdecznie zapraszamy
+-->
+
+<!--{{json:{"created_date":"2006-04-21 21:20:39","publish_down":"0000-00-00 00:00:00","id":"345"}}}-->

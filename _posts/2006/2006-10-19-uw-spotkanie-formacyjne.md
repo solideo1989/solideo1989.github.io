@@ -1,0 +1,22 @@
+---
+title: [UW] Spotkanie formacyjne
+date: 2006-10-19
+redirect_from: 
+  - uw-spotkanie-formacyjne
+  - 2006/2006.10.19-(uw)-spotkanie-formacyjne
+
+published: true
+---
+
+
+
+# [UW] Spotkanie formacyjne
+
+<time>24 października 2006, godz. 18:30</time>
+
+24 października 2006, godz. 18:30 | Zapraszamy na pierwsze spotkanie dyskusyjno-modlitewne Soli Deo koła UW.[br]Już we wtorek 24 października będziemy rozmawiać o powołaniach.[br][br]Miejsce spotkania: Corazziego 7[br]Godzina: 18:30[br][br]Osoby które nie wiedzą jak dotrzeć, o 18:20 spotykamy sie przed pomnikiem Starzyńskiego[br]Wiecej informacji u Ewy Jabłczyńskiej, tel. 694 805 086
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 24 października 2006, godz. 18:30 | Zapraszamy na pierwsze spotkanie dyskusyjno-modlitewne Soli Deo koła UW.[br]Już we wtorek 24 października będziemy rozmawiać o powołaniach.[br][br]Miejsce spotkania: Corazziego 7[br]Godzina: 18:30[br][br]Osoby które nie wiedzą jak dotrzeć, o 18:20 spotykamy sie przed pomnikiem Starzyńskiego[br]Wiecej informacji u Ewy Jabłczyńskiej, tel. 694 805 086
+-->
+
+<!--{{json:{"created_date":"2006-10-19 10:33:47","publish_down":"0000-00-00 00:00:00","id":"399"}}}-->

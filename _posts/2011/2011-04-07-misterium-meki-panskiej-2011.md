@@ -1,0 +1,61 @@
+---
+title: Misterium Męki Pańskiej 2011
+date: 2011-04-07
+redirect_from: 
+  - 2011/2011.04.07-misterium-meki-panskiej-2011
+  - misterium-meki-panskiej-2011
+
+published: true
+---
+
+
+![Plakat_Misterium_2011](images/stories/Plakat_Misterium_2011.jpg)
+
+# Misterium Męki Pańskiej 2011
+
+<time>2011-04-07 08:56:16</time>
+
+
+** **
+W tym roku "poznańskie" MISTERIUM MĘKI PAŃSKIEJ po raz pierwszy odbędzie się&nbsp; w Warszawie: na **torze Wyścigów na Służewcu 16 kwietnia **od godz.** 20:00
+**
+
+
+Szczegóły na: **[http://www.misterium.eu](http://www.misterium.eu/)**
+
+
+Gorąco zachęcamy do uczestnictwa!
+
+
+**
+**
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+** **
+W tym roku "poznańskie" MISTERIUM MĘKI PAŃSKIEJ po raz pierwszy odbędzie się&nbsp; w Warszawie: na **torze Wyścigów na Służewcu 16 kwietnia **od godz.** 20:00
+**
+
+
+
+
+Szczegóły na: **[http://www.misterium.eu](http://www.misterium.eu/)**
+
+
+
+
+Gorąco zachęcamy do uczestnictwa!
+
+
+
+
+
+
+**
+**
+
+
+-->
+
+<!--{{json:{"created_date":"2011-04-07 08:56:16","publish_down":"0000-00-00 00:00:00","id":"123"}}}-->

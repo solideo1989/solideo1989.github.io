@@ -1,0 +1,22 @@
+---
+title: "Kto Cię będzie Polsko kochał?"
+date: 2007-03-21
+redirect_from: 
+  - kto-cie-bedzie-polsko-kochal
+  - 2007/2007.03.21-kto-cie-bedzie-polsko-kochal
+
+published: true
+---
+
+
+
+# "Kto Cię będzie Polsko kochał?"
+
+<time>27 marca 2007, godz. 20:15</time>
+
+27 marca 2007, godz. 20:15 | Gawęda z Barbarą Wachowicz -&nbsp; 27 III 2007(wtorek) o g. 20.15 w Auli Starej Biblioteki UW. Zaprasza SKMA ;)
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 27 marca 2007, godz. 20:15 | Gawęda z Barbarą Wachowicz -&nbsp; 27 III 2007(wtorek) o g. 20.15 w Auli Starej Biblioteki UW. Zaprasza SKMA ;)
+-->
+
+<!--{{json:{"created_date":"2007-03-21 15:03:26","publish_down":"0000-00-00 00:00:00","id":"473"}}}-->
